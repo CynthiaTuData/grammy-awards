@@ -1,0 +1,569 @@
+year,musician_x,work,category,status,cleaned_musician,musician_y,ethnicity,shared_award,Column1,id,total_percentage,status/ethnicity
+2022,Jon Batiste,We Are,album-of-the-year,winner,Jon Batiste,Jon Batiste,UR,,,1,0.6666666666666666,UR winner
+2022,Tony Bennett & Lady Gaga,Love for Sale,album-of-the-year,nominee,Tony Bennett  Lady Gaga,Tony Bennett & Lady Gaga,white,,,2,0.6666666666666666,white nominee
+2022,Justin Bieber,Justice,album-of-the-year,nominee,Justin Bieber,Justin Bieber,white,,,3,0.6666666666666666,white nominee
+2022,Doja Cat,Planet Her,album-of-the-year,nominee,Doja Cat,Doja Cat,UR,,,4,0.6666666666666666,UR nominee
+2022,Billie Eilish,Happier Than Ever,album-of-the-year,nominee,Billie Eilish,Billie Eilish,white,,,5,0.6666666666666666,white nominee
+2022,H.E.R.,Back of My Mind,album-of-the-year,nominee,HER,H.E.R.,UR,,,6,0.6666666666666666,UR nominee
+2022,Lil Nas X,Montero,album-of-the-year,nominee,Lil Nas X,Lil Nas X,UR,,,7,0.6666666666666666,UR nominee
+2022,Olivia Rodrigo,Sour,album-of-the-year,nominee,Olivia Rodrigo,Olivia Rodrigo,UR,,,8,0.6666666666666666,UR nominee
+2022,Taylor Swift,Evermore,album-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,9,0.6666666666666666,white nominee
+2022,Kanye West,Donda,album-of-the-year,nominee,Kanye West,Kanye West,UR,,,10,0.6666666666666666,UR nominee
+2021,Taylor Swift,Folklore,album-of-the-year,winner,Taylor Swift,Taylor Swift,white,,,11,0.5416666666666666,white winner
+2021,Jhene Aiko,Chilombo,album-of-the-year,nominee,Jhene Aiko,Jhene Aiko,UR,,,12,0.5416666666666666,UR nominee
+2021,Black Pumas,Black Pumas (Deluxe Edition),album-of-the-year,nominee,Black Pumas,Black Pumas,UR,,,13,0.5416666666666666,UR nominee
+2021,Coldplay,Everyday Life,album-of-the-year,nominee,Coldplay,Coldplay,white,,,14,0.5416666666666666,white nominee
+2021,Jacob Collier,Djesse Vol. 3,album-of-the-year,nominee,Jacob Collier,Jacob Collier,UR,,,15,0.5416666666666666,UR nominee
+2021,Haim,Women in Music Pt. III,album-of-the-year,nominee,Haim,Haim,white,,,16,0.5416666666666666,white nominee
+2021,Dua Lipa,Future Nostalgia,album-of-the-year,nominee,Dua Lipa,Dua Lipa,white,,,17,0.5416666666666666,white nominee
+2021,Post Malone,Hollywood’s Bleeding,album-of-the-year,nominee,Post Malone,Post Malone,white,,,18,0.5416666666666666,white nominee
+2020,"Where Do We Go?, Billie Eilish","When We All Fall Asleep, Where Do We Go?",album-of-the-year,winner,Where Do We Go Billie Eilish,"Where Do We Go?, Billie Eilish",white,,,19,0.5833333333333334,white winner
+2020,Bon Iver,"i, i",album-of-the-year,nominee,Bon Iver,Bon Iver,white,,,20,0.5833333333333334,white nominee
+2020,Lana Del Rey,Norman Fucking Rockwell,album-of-the-year,nominee,Lana Del Rey,Lana Del Rey,white,,,21,0.5833333333333334,white nominee
+2020,H.E.R.,I Used to Know Her,album-of-the-year,nominee,HER,H.E.R.,UR,,,22,0.5833333333333334,UR nominee
+2020,Ariana Grande,"Thank U, Next",album-of-the-year,nominee,Ariana Grande,Ariana Grande,white,,,23,0.5833333333333334,white nominee
+2020,Lil Nas X,7,album-of-the-year,nominee,Lil Nas X,Lil Nas X,UR,,,24,0.5833333333333334,UR nominee
+2020,Lizzo,Cuz I Love You (Deluxe),album-of-the-year,nominee,Lizzo,Lizzo,UR,,,25,0.5833333333333334,UR nominee
+2020,Vampire Weekend,Father of the Bride,album-of-the-year,nominee,Vampire Weekend,Vampire Weekend,white,,,26,0.5833333333333334,white nominee
+2019,Kacey Musgraves,Golden Hour,album-of-the-year,winner,Kacey Musgraves,Kacey Musgraves,white,,,27,0.5416666666666666,white winner
+2019,Cardi B,Invasion of Privacy,album-of-the-year,nominee,Cardi B,Cardi B,UR,,,28,0.5416666666666666,UR nominee
+2019,Brandi Carlile,"By the Way, I Forgive You",album-of-the-year,nominee,Brandi Carlile,Brandi Carlile,white,,,29,0.5416666666666666,white nominee
+2019,Drake,Scorpion,album-of-the-year,nominee,Drake,Drake,UR,,,30,0.5416666666666666,UR nominee
+2019,H.E.R.,H.E.R.,album-of-the-year,nominee,HER,H.E.R.,UR,,,31,0.5416666666666666,UR nominee
+2019,Kendrick Lamar & others,Black Panther: The Album,album-of-the-year,nominee,Kendrick Lamar  others,Kendrick Lamar & others,UR,,,32,0.5416666666666666,UR nominee
+2019,Post Malone,Beerbongs & Bentleys,album-of-the-year,nominee,Post Malone,Post Malone,white,,,33,0.5416666666666666,white nominee
+2019,Janelle Monae,Dirty Computer,album-of-the-year,nominee,Janelle Monae,Janelle Monae,UR,,,34,0.5416666666666666,UR nominee
+2018,Bruno Mars,24K Magic,album-of-the-year,winner,Bruno Mars,Bruno Mars,UR,,,35,0.8666666666666667,UR winner
+2018,Childish Gambino,Awaken My Love,album-of-the-year,nominee,Childish Gambino,Childish Gambino,UR,,,36,0.8666666666666667,UR nominee
+2018,Jay-Z,4:44,album-of-the-year,nominee,JayZ,Jay-Z,UR,,,37,0.8666666666666667,UR nominee
+2018,Kendrick Lamar,DAMN,album-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,38,0.8666666666666667,UR nominee
+2018,Lorde,Melodrama,album-of-the-year,nominee,Lorde,Lorde,white,,,39,0.8666666666666667,white nominee
+2017,Adele,25,album-of-the-year,winner,Adele,Adele,white,,,40,0.4,white winner
+2017,Beyonce,Lemonade,album-of-the-year,nominee,Beyonce,Beyonce,UR,,,41,0.4,UR nominee
+2017,Justin Bieber,Purpose,album-of-the-year,nominee,Justin Bieber,Justin Bieber,white,,,42,0.4,white nominee
+2017,Drake,Views,album-of-the-year,nominee,Drake,Drake,UR,,,43,0.4,UR nominee
+2017,Sturgill Simpson,A Sailor’s Guide to Earth,album-of-the-year,nominee,Sturgill Simpson,Sturgill Simpson,white,,,44,0.4,white nominee
+2016,Taylor Swift,1989,album-of-the-year,winner,Taylor Swift,Taylor Swift,white,,,45,0.4666666666666667,white winner
+2016,Alabama Shakes,Sound & Color,album-of-the-year,nominee,Alabama Shakes,Alabama Shakes,UR,,,46,0.4666666666666667,UR nominee
+2016,Kendrick Lamar,To Pimp a Butterfly,album-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,47,0.4666666666666667,UR nominee
+2016,Chris Stapleton,Traveller,album-of-the-year,nominee,Chris Stapleton,Chris Stapleton,white,,,48,0.4666666666666667,white nominee
+2016,the Weeknd,Beauty Behind the Madness,album-of-the-year,nominee,the Weeknd,the Weeknd,UR,,,49,0.4666666666666667,UR nominee
+2015,Beck,Morning Phase,album-of-the-year,winner,Beck,Beck,white,,,50,0.13333333333333333,white winner
+2015,Beyonce,Beyonce,album-of-the-year,nominee,Beyonce,Beyonce,UR,,,51,0.13333333333333333,UR nominee
+2015,Pharrell Williams,Girl,album-of-the-year,nominee,Pharrell Williams,Pharrell Williams,UR,,,52,0.13333333333333333,UR nominee
+2015,Sam Smith,In the Lonely Hour,album-of-the-year,nominee,Sam Smith,Sam Smith,white,,,53,0.13333333333333333,white nominee
+2015,Ed Sheeran,X,album-of-the-year,nominee,Ed Sheeran,Ed Sheeran,white,,,54,0.13333333333333333,white nominee
+2014,Daft Punk,Random Access Memories,album-of-the-year,winner,Daft Punk,Daft Punk,white,,,55,0.3333333333333333,white winner
+2014,Sara Bareilles,The Blessed Unrest,album-of-the-year,nominee,Sara Bareilles,Sara Bareilles,white,,,56,0.3333333333333333,white nominee
+2014,Kendrick Lamar,"Good Kid, m.a.a.d City",album-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,57,0.3333333333333333,UR nominee
+2014,Macklemore & Ryan Lewis,The Heist,album-of-the-year,nominee,Macklemore  Ryan Lewis,Macklemore & Ryan Lewis,white,,,58,0.3333333333333333,white nominee
+2014,Taylor Swift,Red,album-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,59,0.3333333333333333,white nominee
+2013,Mumford & Sons,Babel,album-of-the-year,winner,Mumford  Sons,Mumford & Sons,white,,,60,0.3125,white winner
+2013,Black Keys,El Camino,album-of-the-year,nominee,Black Keys,Black Keys,white,,,61,0.3125,white nominee
+2013,Frank Ocean,Channel Orange,album-of-the-year,nominee,Frank Ocean,Frank Ocean,UR,,,62,0.3125,UR nominee
+2013,fun.,Some Nights,album-of-the-year,nominee,fun,fun.,white,,,63,0.3125,white nominee
+2013,Jack White,Blunderbuss,album-of-the-year,nominee,Jack White,Jack White,white,,,64,0.3125,white nominee
+2012,Adele,21,album-of-the-year,winner,Adele,Adele,white,,,65,0.3333333333333333,white winner
+2012,Foo Fighters,Wasting Light,album-of-the-year,nominee,Foo Fighters,Foo Fighters,white,,,66,0.3333333333333333,white nominee
+2012,Lady Gaga,Born This Way,album-of-the-year,nominee,Lady Gaga,Lady Gaga,white,,,67,0.3333333333333333,white nominee
+2012,Bruno Mars,Doo Wops and Hooligans,album-of-the-year,nominee,Bruno Mars,Bruno Mars,UR,,,68,0.3333333333333333,UR nominee
+2012,Rihanna,Loud,album-of-the-year,nominee,Rihanna,Rihanna,UR,,,69,0.3333333333333333,UR nominee
+2011,Arcade Fire,The Suburbs,album-of-the-year,winner,Arcade Fire,Arcade Fire,white,,,70,0.3333333333333333,white winner
+2011,Eminem,Recovery,album-of-the-year,nominee,Eminem,Eminem,white,,,71,0.3333333333333333,white nominee
+2011,Lady Antebellum,Need You Now,album-of-the-year,nominee,Lady Antebellum,Lady Antebellum,white,,,72,0.3333333333333333,white nominee
+2011,Lady Gaga,The Fame Monster,album-of-the-year,nominee,Lady Gaga,Lady Gaga,white,,,73,0.3333333333333333,white nominee
+2011,Katy Perry,Teenage Dream,album-of-the-year,nominee,Katy Perry,Katy Perry,white,,,74,0.3333333333333333,white nominee
+2010,Taylor Swift,Fearless,album-of-the-year,winner,Taylor Swift,Taylor Swift,white,,,75,0.4,white winner
+2010,Beyonce,I Am…Sasha Fierce,album-of-the-year,nominee,Beyonce,Beyonce,UR,,,76,0.4,UR nominee
+2010,Black Eyed Peas,The E.N.D.,album-of-the-year,nominee,Black Eyed Peas,Black Eyed Peas,UR,,,77,0.4,UR nominee
+2010,Lady Gaga,The Fame,album-of-the-year,nominee,Lady Gaga,Lady Gaga,white,,,78,0.4,white nominee
+2010,Dave Matthews Band,Big Whiskey and the GrooGrux King,album-of-the-year,nominee,Dave Matthews Band,Dave Matthews Band,white,,,79,0.4,white nominee
+2009,Robert Plant & Alison Krauss,Raising Sand,album-of-the-year,winner,Robert Plant  Alison Krauss,Robert Plant & Alison Krauss,white,,,80,0.3333333333333333,white winner
+2009,Coldplay,Viva la Vida or Death and All His Friends,album-of-the-year,nominee,Coldplay,Coldplay,white,,,81,0.3333333333333333,white nominee
+2009,Ne-Yo,Year of the Gentleman,album-of-the-year,nominee,NeYo,Ne-Yo,UR,,,82,0.3333333333333333,UR nominee
+2009,Radiohead,In Rainbows,album-of-the-year,nominee,Radiohead,Radiohead,white,,,83,0.3333333333333333,white nominee
+2009,Lil Wayne,Tha Carter III,album-of-the-year,nominee,Lil Wayne,Lil Wayne,UR,,,84,0.3333333333333333,UR nominee
+2008,Herbie Hancock,River: The Joni Letters,album-of-the-year,winner,Herbie Hancock,Herbie Hancock,UR,,,85,0.3333333333333333,UR winner
+2008,Foo Fighters,"Echoes, Silence, Patience & Grace",album-of-the-year,nominee,Foo Fighters,Foo Fighters,white,,,86,0.3333333333333333,white nominee
+2008,Vince Gill,These Days,album-of-the-year,nominee,Vince Gill,Vince Gill,white,,,87,0.3333333333333333,white nominee
+2008,Kanye West,Graduation,album-of-the-year,nominee,Kanye West,Kanye West,UR,,,88,0.3333333333333333,UR nominee
+2008,Amy Winehouse,Back to Black,album-of-the-year,nominee,Amy Winehouse,Amy Winehouse,white,,,89,0.3333333333333333,white nominee
+2007,Dixie Chicks,Taking the Long Way,album-of-the-year,winner,Dixie Chicks,Dixie Chicks,white,,,90,0.4,white winner
+2007,Gnarls Barkley,St. Elsewhere,album-of-the-year,nominee,Gnarls Barkley,Gnarls Barkley,UR,,,91,0.4,UR nominee
+2007,John Mayer,Continuum,album-of-the-year,nominee,John Mayer,John Mayer,white,,,92,0.4,white nominee
+2007,Red Hot Chili Peppers,Stadium Arcadium,album-of-the-year,nominee,Red Hot Chili Peppers,Red Hot Chili Peppers,white,,,93,0.4,white nominee
+2007,Justin Timberlake,FutureSex/LoveSounds,album-of-the-year,nominee,Justin Timberlake,Justin Timberlake,white,,,94,0.4,white nominee
+2006,U2,How to Dismantle an Atomic Bomb,album-of-the-year,winner,U2,U2,white,,,95,0.4,white winner
+2006,Mariah Carey,The Emancipation of Mimi,album-of-the-year,nominee,Mariah Carey,Mariah Carey,UR,,,96,0.4,UR nominee
+2006,Paul McCartney,Chaos and Creation in the Backyard,album-of-the-year,nominee,Paul McCartney,Paul McCartney,white,,,97,0.4,white nominee
+2006,Gwen Stefani,Love.Angel.Music.Baby,album-of-the-year,nominee,Gwen Stefani,Gwen Stefani,white,,,98,0.4,white nominee
+2006,Kanye West,Late Registration,album-of-the-year,nominee,Kanye West,Kanye West,UR,,,99,0.4,UR nominee
+2005,Ray Charles,Genius Loves Company,album-of-the-year,winner,Ray Charles,Ray Charles,UR,,,100,0.6666666666666666,UR winner
+2005,Green Day,American Idiot,album-of-the-year,nominee,Green Day,Green Day,white,,,101,0.6666666666666666,white nominee
+2005,Alicia Keys,The Diary of Alicia Keys,album-of-the-year,nominee,Alicia Keys,Alicia Keys,UR,,,102,0.6666666666666666,UR nominee
+2005,Usher,Confessions,album-of-the-year,nominee,Usher,Usher,UR,,,103,0.6666666666666666,UR nominee
+2005,Kanye West,The College Dropout,album-of-the-year,nominee,Kanye West,Kanye West,UR,,,104,0.6666666666666666,UR nominee
+2004,Outkast,Speakerboxxx/The Love Below,album-of-the-year,winner,Outkast,Outkast,UR,,,105,0.4666666666666667,UR winner
+2004,Missy Elliott,Under Construction,album-of-the-year,nominee,Missy Elliott,Missy Elliott,UR,,,106,0.4666666666666667,UR nominee
+2004,Evanescence,Fallen,album-of-the-year,nominee,Evanescence,Evanescence,white,,,107,0.4666666666666667,white nominee
+2004,Justin Timberlake,Justified,album-of-the-year,nominee,Justin Timberlake,Justin Timberlake,white,,,108,0.4666666666666667,white nominee
+2004,White Stripes,Elephant,album-of-the-year,nominee,White Stripes,White Stripes,white,,,109,0.4666666666666667,white nominee
+2003,Norah Jones,Come Away With Me,album-of-the-year,winner,Norah Jones,Norah Jones,UR,,,110,0.4,UR winner
+2003,Dixie Chicks,Home,album-of-the-year,nominee,Dixie Chicks,Dixie Chicks,white,,,111,0.4,white nominee
+2003,Eminem,The Eminem Show,album-of-the-year,nominee,Eminem,Eminem,white,,,112,0.4,white nominee
+2003,Nelly,Nellyville,album-of-the-year,nominee,Nelly,Nelly,UR,,,113,0.4,UR nominee
+2003,Bruce Springsteen,The Rising,album-of-the-year,nominee,Bruce Springsteen,Bruce Springsteen,white,,,114,0.4,white nominee
+2002,"Where Art Thou?, soundtrack","O Brother, Where Art Thou?",album-of-the-year,winner,Where Art Thou soundtrack,"Where Art Thou?, soundtrack",white,,,115,0.5333333333333333,white winner
+2002,India.Arie,Acoustic Soul,album-of-the-year,nominee,IndiaArie,India.Arie,UR,,,116,0.5333333333333333,UR nominee
+2002,Bob Dylan,Love and Theft,album-of-the-year,nominee,Bob Dylan,Bob Dylan,UR,,,117,0.5333333333333333,UR nominee
+2002,Outkast,Stankonia,album-of-the-year,nominee,Outkast,Outkast,UR,,,118,0.5333333333333333,UR nominee
+2002,U2,All That You Can’t Leave Behind,album-of-the-year,nominee,U2,U2,white,,,119,0.5333333333333333,white nominee
+2001,Steely Dan,Two Against Nature,album-of-the-year,winner,Steely Dan,Steely Dan,white,,,120,0.26666666666666666,white winner
+2001,Beck,Midnite Vultures,album-of-the-year,nominee,Beck,Beck,white,,,121,0.26666666666666666,white nominee
+2001,Eminem,The Marshall Mathers LP,album-of-the-year,nominee,Eminem,Eminem,white,,,122,0.26666666666666666,white nominee
+2001,Radiohead,Kid A,album-of-the-year,nominee,Radiohead,Radiohead,white,,,123,0.26666666666666666,white nominee
+2001,Paul Simon,You’re the One,album-of-the-year,nominee,Paul Simon,Paul Simon,white,,,124,0.26666666666666666,white nominee
+2000,Santana,Supernatural,album-of-the-year,winner,Santana,Santana,UR,,,125,0.4,UR winner
+2000,Backstreet Boys,Millennium,album-of-the-year,nominee,Backstreet Boys,Backstreet Boys,white,,,126,0.4,white nominee
+2000,Dixie Chicks,Fly,album-of-the-year,nominee,Dixie Chicks,Dixie Chicks,white,,,127,0.4,white nominee
+2000,Diana Krall,When I Look in Your Eyes,album-of-the-year,nominee,Diana Krall,Diana Krall,white,,,128,0.4,white nominee
+2000,TLC,FanMail,album-of-the-year,nominee,TLC,TLC,UR,,,129,0.4,UR nominee
+1999,Lauryn Hill,The Miseducation of Lauryn Hill,album-of-the-year,winner,Lauryn Hill,Lauryn Hill,UR,,,130,0.2,UR winner
+1999,Madonna,Ray of Light,album-of-the-year,nominee,Madonna,Madonna,white,,,131,0.2,white nominee
+1999,Sheryl Crow,The Globe Sessions,album-of-the-year,nominee,Sheryl Crow,Sheryl Crow,white,,,132,0.2,white nominee
+1999,Garbage,Version 2.0,album-of-the-year,nominee,Garbage,Garbage,white,,,133,0.2,white nominee
+1999,Shania Twain,Come on Over,album-of-the-year,nominee,Shania Twain,Shania Twain,white,,,134,0.2,white nominee
+1998,Bob Dylan,Time Out of Mind,album-of-the-year,winner,Bob Dylan,Bob Dylan,UR,,,135,0.3333333333333333,UR winner
+1998,Babyface,The Day,album-of-the-year,nominee,Babyface,Babyface,UR,,,136,0.3333333333333333,UR nominee
+1998,Paula Cole,This Fire,album-of-the-year,nominee,Paula Cole,Paula Cole,white,,,137,0.3333333333333333,white nominee
+1998,Paul McCartney,Flaming Pie,album-of-the-year,nominee,Paul McCartney,Paul McCartney,white,,,138,0.3333333333333333,white nominee
+1998,Radiohead,OK Computer,album-of-the-year,nominee,Radiohead,Radiohead,white,,,139,0.3333333333333333,white nominee
+1997,Celine Dion,Falling Into You,album-of-the-year,winner,Celine Dion,Celine Dion,white,,,140,0.4,white winner
+1997,Beck,Odelay,album-of-the-year,nominee,Beck,Beck,white,,,141,0.4,white nominee
+1997,Fugees,The Score,album-of-the-year,nominee,Fugees,Fugees,UR,,,142,0.4,UR nominee
+1997,Smashing Pumpkins,Mellon Collie and the Infinite Sadness,album-of-the-year,nominee,Smashing Pumpkins,Smashing Pumpkins,UR,,,143,0.4,UR nominee
+1997,soundtrack,Waiting to Exhale,album-of-the-year,nominee,soundtrack,soundtrack,UR,,,144,0.4,UR nominee
+1996,Alanis Morissette,Jagged Little Pill,album-of-the-year,winner,Alanis Morissette,Alanis Morissette,white,,,145,0.5333333333333333,white winner
+1996,Mariah Carey,Daydream,album-of-the-year,nominee,Mariah Carey,Mariah Carey,UR,,,146,0.5333333333333333,UR nominee
+1996,Michael Jackson,HIStory: Past Present and Future Book 1,album-of-the-year,nominee,Michael Jackson,Michael Jackson,UR,,,147,0.5333333333333333,UR nominee
+1996,Joan Osborne,Relish,album-of-the-year,nominee,Joan Osborne,Joan Osborne,white,,,148,0.5333333333333333,white nominee
+1996,Pearl Jam,Vitalogy,album-of-the-year,nominee,Pearl Jam,Pearl Jam,white,,,149,0.5333333333333333,white nominee
+1995,Tony Bennett,MTV Unplugged,album-of-the-year,winner,Tony Bennett,Tony Bennett,white,,,150,0.2,white winner
+1995,Zubin Mehta,"The Three Tenors in Concert 1994, Jose Carreras, Placido Domingo, Luciano Pavarotti",album-of-the-year,nominee,Zubin Mehta,Zubin Mehta,UR,,,151,0.2,UR nominee
+1995,Eric Clapton,From the Cradle,album-of-the-year,nominee,Eric Clapton,Eric Clapton,white,,,152,0.2,white nominee
+1995,Bonnie Raitt,Longing in Their Hearts,album-of-the-year,nominee,Bonnie Raitt,Bonnie Raitt,white,,,153,0.2,white nominee
+1995,Seal,Seal,album-of-the-year,nominee,Seal,Seal,UR,,,154,0.2,UR nominee
+1994,Whitney Houston,The Bodyguard soundtrack,album-of-the-year,winner,Whitney Houston,Whitney Houston,white,,,155,0.3333333333333333,white winner
+1994,Donald Fagen,Kamakiriad,album-of-the-year,nominee,Donald Fagen,Donald Fagen,white,,,156,0.3333333333333333,white nominee
+1994,Billy Joel,River of Dreams,album-of-the-year,nominee,Billy Joel,Billy Joel,white,,,157,0.3333333333333333,white nominee
+1994,R.E.M.,Automatic for the People,album-of-the-year,nominee,REM,R.E.M.,white,,,158,0.3333333333333333,white nominee
+1994,Sting,Ten Summoner’s Tales,album-of-the-year,nominee,Sting,Sting,white,,,159,0.3333333333333333,white nominee
+1993,Eric Clapton,Unplugged,album-of-the-year,winner,Eric Clapton,Eric Clapton,white,,,160,0.3333333333333333,white winner
+1993,k.d. lang,Ingenue,album-of-the-year,nominee,kd lang,k.d. lang,white,,,161,0.3333333333333333,white nominee
+1993,Annie Lennox,Diva,album-of-the-year,nominee,Annie Lennox,Annie Lennox,white,,,162,0.3333333333333333,white nominee
+1993,U2,Achtung Baby,album-of-the-year,nominee,U2,U2,white,,,163,0.3333333333333333,white nominee
+1993,soundtrack,Beauty and the Beast,album-of-the-year,nominee,soundtrack,soundtrack,white,,,164,0.3333333333333333,white nominee
+1992,Natalie Cole,Unforgettable…with Love,album-of-the-year,winner,Natalie Cole,Natalie Cole,UR,,,165,0.4,UR winner
+1992,Amy Grant,Heart in Motion,album-of-the-year,nominee,Amy Grant,Amy Grant,white,,,166,0.4,white nominee
+1992,Bonnie Raitt,Luck of the Draw,album-of-the-year,nominee,Bonnie Raitt,Bonnie Raitt,white,,,167,0.4,white nominee
+1992,R.E.M.,Out of Time,album-of-the-year,nominee,REM,R.E.M.,white,,,168,0.4,white nominee
+1992,Paul Simon,The Rhythm of the Saints,album-of-the-year,nominee,Paul Simon,Paul Simon,white,,,169,0.4,white nominee
+1991,Quincy Jones,Back on the Block,album-of-the-year,winner,Quincy Jones,Quincy Jones,UR,,,170,0.4,UR winner
+1991,Mariah Carey,Mariah Carey,album-of-the-year,nominee,Mariah Carey,Mariah Carey,UR,,,171,0.4,UR nominee
+1991,Phil Collins,…But Seriously,album-of-the-year,nominee,Phil Collins,Phil Collins,white,,,172,0.4,white nominee
+1991,MC Hammer,"Please, Hammer, Don’t Hurt ‘Em",album-of-the-year,nominee,MC Hammer,MC Hammer,UR,,,173,0.4,UR nominee
+1991,Wilson Phillips,Wilson Phillips,album-of-the-year,nominee,Wilson Phillips,Wilson Phillips,white,,,174,0.4,white nominee
+1990,Bonnie Raitt,Nick of Time,album-of-the-year,winner,Bonnie Raitt,Bonnie Raitt,white,,,175,0.4,white winner
+1990,Don Henley,The End of the Innocence,album-of-the-year,nominee,Don Henley,Don Henley,white,,,176,0.4,white nominee
+1990,Fine Young Cannibals,The Raw and the Cooked,album-of-the-year,nominee,Fine Young Cannibals,Fine Young Cannibals,UR,,,177,0.4,UR nominee
+1990,Tom Petty,Full Moon Fever,album-of-the-year,nominee,Tom Petty,Tom Petty,white,,,178,0.4,white nominee
+1990,Traveling Wilburys,Traveling Wilburys Vol. 1,album-of-the-year,nominee,Traveling Wilburys,Traveling Wilburys,white,,,179,0.4,white nominee
+2022,Silk Sonic,Leave the Door Open,record-of-the-year,winner,Silk Sonic,Silk Sonic,UR,,,180,0.6666666666666666,UR winner
+2022,Abba,I Still Have Faith in You,record-of-the-year,nominee,Abba,Abba,white,,,181,0.6666666666666666,white nominee
+2022,Jon Batiste,Freedom,record-of-the-year,nominee,Jon Batiste,Jon Batiste,UR,,,182,0.6666666666666666,UR nominee
+2022,Tony Bennett & Lady Gaga,I Get a Kick Out of You,record-of-the-year,nominee,Tony Bennett  Lady Gaga,Tony Bennett & Lady Gaga,white,,,183,0.6666666666666666,white nominee
+2022,Justin Bieber featuring Daniel Caesar & Giveon,Peaches,record-of-the-year,nominee,Justin Bieber featuring Daniel Caesar  Giveon,Justin Bieber featuring Daniel Caesar & Giveon,UR,shared,,184,0.6666666666666666,UR nominee
+2022,Brandi Carlile,Right on Time,record-of-the-year,nominee,Brandi Carlile,Brandi Carlile,white,,,185,0.6666666666666666,white nominee
+2022,Doja Cat featuring SZA,Kiss Me More,record-of-the-year,nominee,Doja Cat featuring SZA,Doja Cat featuring SZA,UR,,,186,0.6666666666666666,UR nominee
+2022,Billie Eilish,Happier Than Ever,record-of-the-year,nominee,Billie Eilish,Billie Eilish,white,,,187,0.6666666666666666,white nominee
+2022,Lil Nas X,Montero (Call Me By Your Name),record-of-the-year,nominee,Lil Nas X,Lil Nas X,UR,,,188,0.6666666666666666,UR nominee
+2022,Olivia Rodrigo,Drivers License,record-of-the-year,nominee,Olivia Rodrigo,Olivia Rodrigo,UR,,,189,0.6666666666666666,UR nominee
+2021,Billie Eilish,Everything I Wanted,record-of-the-year,winner,Billie Eilish,Billie Eilish,white,,,190,0.5416666666666666,white winner
+2021,Beyonce,Black Parade,record-of-the-year,nominee,Beyonce,Beyonce,UR,,,191,0.5416666666666666,UR nominee
+2021,Black Pumas,Colors,record-of-the-year,nominee,Black Pumas,Black Pumas,UR,,,192,0.5416666666666666,UR nominee
+2021,DaBaby featuring Roddy Ricch,Rockstar,record-of-the-year,nominee,DaBaby featuring Roddy Ricch,DaBaby featuring Roddy Ricch,UR,,,193,0.5416666666666666,UR nominee
+2021,Doja Cat,Say So,record-of-the-year,nominee,Doja Cat,Doja Cat,UR,,,194,0.5416666666666666,UR nominee
+2021,Dua Lipa,Don’t Start Now,record-of-the-year,nominee,Dua Lipa,Dua Lipa,white,,,195,0.5416666666666666,white nominee
+2021,Post Malone,Circles,record-of-the-year,nominee,Post Malone,Post Malone,white,,,196,0.5416666666666666,white nominee
+2021,Megan Thee Stallion featuring Beyonce,Savage,record-of-the-year,nominee,Megan Thee Stallion featuring Beyonce,Megan Thee Stallion featuring Beyonce,UR,,,197,0.5416666666666666,UR nominee
+2020,Billie Eilish,Bad Guy,record-of-the-year,winner,Billie Eilish,Billie Eilish,white,,,198,0.5833333333333334,white winner
+2020,Bon Iver,Hey Ma,record-of-the-year,nominee,Bon Iver,Bon Iver,white,,,199,0.5833333333333334,white nominee
+2020,Ariana Grande,7 Rings,record-of-the-year,nominee,Ariana Grande,Ariana Grande,white,,,200,0.5833333333333334,white nominee
+2020,H.E.R.,Hard Place,record-of-the-year,nominee,HER,H.E.R.,UR,,,201,0.5833333333333334,UR nominee
+2020,Khalid,Talk,record-of-the-year,nominee,Khalid,Khalid,UR,,,202,0.5833333333333334,UR nominee
+2020,Lil Nas X featuring Billy Ray Cyrus,Old Town Road,record-of-the-year,nominee,Lil Nas X featuring Billy Ray Cyrus,Lil Nas X featuring Billy Ray Cyrus,UR,shared,,203,0.5833333333333334,UR nominee
+2020,Lizzo,Truth Hurts,record-of-the-year,nominee,Lizzo,Lizzo,UR,,,204,0.5833333333333334,UR nominee
+2020,Post Malone & Swae Lee,Sunflower,record-of-the-year,nominee,Post Malone  Swae Lee,Post Malone & Swae Lee,UR,shared,,205,0.5833333333333334,UR nominee
+2019,Childish Gambino,This is America,record-of-the-year,winner,Childish Gambino,Childish Gambino,UR,,,206,0.5416666666666666,UR winner
+2019,Bad Bunny & J Balvin,"I Like It, Cardi B",record-of-the-year,nominee,Bad Bunny  J Balvin,Bad Bunny & J Balvin,UR,,,207,0.5416666666666666,UR nominee
+2019,Brandi Carlile,The Joke,record-of-the-year,nominee,Brandi Carlile,Brandi Carlile,white,,,208,0.5416666666666666,white nominee
+2019,Drake,God’s Plan,record-of-the-year,nominee,Drake,Drake,UR,,,209,0.5416666666666666,UR nominee
+2019,Lady Gaga & Bradley Cooper,Shallow,record-of-the-year,nominee,Lady Gaga  Bradley Cooper,Lady Gaga & Bradley Cooper,white,,,210,0.5416666666666666,white nominee
+2019,Kendrick Lamar & SZA,All the Stars,record-of-the-year,nominee,Kendrick Lamar  SZA,Kendrick Lamar & SZA,UR,,,211,0.5416666666666666,UR nominee
+2019,Post Malone featuring 21 Savage,Rockstar,record-of-the-year,nominee,Post Malone featuring 21 Savage,Post Malone featuring 21 Savage,UR,shared,,212,0.5416666666666666,UR nominee
+2019,Maren Morris & Grey,"The Middle, Zedd",record-of-the-year,nominee,Maren Morris  Grey,Maren Morris & Grey,white,,,213,0.5416666666666666,white nominee
+2018,Bruno Mars,24K Magic,record-of-the-year,winner,Bruno Mars,Bruno Mars,UR,,,214,0.8666666666666667,UR winner
+2018,Luis Fonsi & Daddy Yankee featuring Justin Bieber,Despacito,record-of-the-year,nominee,Luis Fonsi  Daddy Yankee featuring Justin Bieber,Luis Fonsi & Daddy Yankee featuring Justin Bieber,UR,shared,,215,0.8666666666666667,UR nominee
+2018,Childish Gambino,Redbone,record-of-the-year,nominee,Childish Gambino,Childish Gambino,UR,,,216,0.8666666666666667,UR nominee
+2018,Jay-Z,The Story of OJ,record-of-the-year,nominee,JayZ,Jay-Z,UR,,,217,0.8666666666666667,UR nominee
+2018,Kendrick Lamar,Humble,record-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,218,0.8666666666666667,UR nominee
+2017,Adele,Hello,record-of-the-year,winner,Adele,Adele,white,,,219,0.4,white winner
+2017,Beyonce,Formation,record-of-the-year,nominee,Beyonce,Beyonce,UR,,,220,0.4,UR nominee
+2017,Lukas Graham,7 Years,record-of-the-year,nominee,Lukas Graham,Lukas Graham,white,,,221,0.4,white nominee
+2017,Rihanna featuring Drake,Work,record-of-the-year,nominee,Rihanna featuring Drake,Rihanna featuring Drake,UR,,,222,0.4,UR nominee
+2017,Twenty One Pilots,Stressed Out,record-of-the-year,nominee,Twenty One Pilots,Twenty One Pilots,white,,,223,0.4,white nominee
+2016,Mark Ronson featuring Bruno Mars,Uptown Funk,record-of-the-year,winner,Mark Ronson featuring Bruno Mars,Mark Ronson featuring Bruno Mars,UR,shared,,224,0.4666666666666667,UR winner
+2016,D’Angelo,Really Love,record-of-the-year,nominee,DAngelo,D'Angelo,UR,,,225,0.4666666666666667,UR nominee
+2016,Ed Sheeran,Thinking Out Loud,record-of-the-year,nominee,Ed Sheeran,Ed Sheeran,white,,,226,0.4666666666666667,white nominee
+2016,Taylor Swift,Blank Space,record-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,227,0.4666666666666667,white nominee
+2016,the Weeknd,Can’t Feel My Face,record-of-the-year,nominee,the Weeknd,the Weeknd,UR,,,228,0.4666666666666667,UR nominee
+2015,Sam Smith,Stay With Me,record-of-the-year,winner,Sam Smith,Sam Smith,white,,,229,0.13333333333333333,white winner
+2015,Iggy Azalea featuring Charli XCX,Fancy,record-of-the-year,nominee,Iggy Azalea featuring Charli XCX,Iggy Azalea featuring Charli XCX,white,,,230,0.13333333333333333,white nominee
+2015,Meghan Trainor,All About That Bass,record-of-the-year,nominee,Meghan Trainor,Meghan Trainor,white,,,231,0.13333333333333333,white nominee
+2015,Sia,Chandelier,record-of-the-year,nominee,Sia,Sia,white,,,232,0.13333333333333333,white nominee
+2015,Taylor Swift,Shake it Off,record-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,233,0.13333333333333333,white nominee
+2014,Daft Punk featuring Pharrell Williams & Nile Rodgers,Get Lucky,record-of-the-year,winner,Daft Punk featuring Pharrell Williams  Nile Rodgers,Daft Punk featuring Pharrell Williams & Nile Rodgers,UR,shared,,234,0.3333333333333333,UR winner
+2014,Imagine Dragons,Radioactive,record-of-the-year,nominee,Imagine Dragons,Imagine Dragons,white,,,235,0.3333333333333333,white nominee
+2014,Lorde,Royals,record-of-the-year,nominee,Lorde,Lorde,white,,,236,0.3333333333333333,white nominee
+2014,Bruno Mars,Locked Out of Heaven,record-of-the-year,nominee,Bruno Mars,Bruno Mars,UR,,,237,0.3333333333333333,UR nominee
+2014,Robin Thicke featuring TI & Pharrell Williams,Blurred Lines,record-of-the-year,nominee,Robin Thicke featuring TI  Pharrell Williams,Robin Thicke featuring TI & Pharrell Williams,UR,,,238,0.3333333333333333,UR nominee
+2013,Gotye featuring Kimbra,Somebody That I Used to Know,record-of-the-year,winner,Gotye featuring Kimbra,Gotye featuring Kimbra,white,,,239,0.3125,white winner
+2013,Black Keys,Lonely Boy,record-of-the-year,nominee,Black Keys,Black Keys,white,,,240,0.3125,white nominee
+2013,Kelly Clarkson,Stronger (What Doesn’t Kill You),record-of-the-year,nominee,Kelly Clarkson,Kelly Clarkson,white,,,241,0.3125,white nominee
+2013,fun. featuring Janelle Monae,We Are Young,record-of-the-year,nominee,fun featuring Janelle Monae,fun. featuring Janelle Monae,UR,shared,,242,0.3125,UR nominee
+2013,Frank Ocean,Thinkin Bout You,record-of-the-year,nominee,Frank Ocean,Frank Ocean,UR,,,243,0.3125,UR nominee
+2013,Taylor Swift,We Are Never Ever Getting Back Together,record-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,244,0.3125,white nominee
+2012,Adele,Rolling in the Deep,record-of-the-year,winner,Adele,Adele,white,,,245,0.3333333333333333,white winner
+2012,Bon Iver,Holocene,record-of-the-year,nominee,Bon Iver,Bon Iver,white,,,246,0.3333333333333333,white nominee
+2012,Bruno Mars,Grenade,record-of-the-year,nominee,Bruno Mars,Bruno Mars,UR,,,247,0.3333333333333333,UR nominee
+2012,Mumford & Sons,The Cave,record-of-the-year,nominee,Mumford  Sons,Mumford & Sons,white,,,248,0.3333333333333333,white nominee
+2012,Katy Perry,Firework,record-of-the-year,nominee,Katy Perry,Katy Perry,white,,,249,0.3333333333333333,white nominee
+2011,Lady Antebellum,Need You Now,record-of-the-year,winner,Lady Antebellum,Lady Antebellum,white,,,250,0.3333333333333333,white winner
+2011,B.o.B featuring Bruno Mars,Nothin’ on You,record-of-the-year,nominee,BoB featuring Bruno Mars,B.o.B featuring Bruno Mars,UR,,,251,0.3333333333333333,UR nominee
+2011,Eminem featuring Rihanna,Love the Way You Lie,record-of-the-year,nominee,Eminem featuring Rihanna,Eminem featuring Rihanna,UR,shared,,252,0.3333333333333333,UR nominee
+2011,Cee Lo Green,Fuck You,record-of-the-year,nominee,Cee Lo Green,Cee Lo Green,UR,,,253,0.3333333333333333,UR nominee
+2011,Jay-Z featuring Alicia Keys,Empire State of Mind,record-of-the-year,nominee,JayZ featuring Alicia Keys,Jay-Z featuring Alicia Keys,UR,,,254,0.3333333333333333,UR nominee
+2010,Kings of Leon,Use Somebody,record-of-the-year,winner,Kings of Leon,Kings of Leon,white,,,255,0.4,white winner
+2010,Beyonce,Halo,record-of-the-year,nominee,Beyonce,Beyonce,UR,,,256,0.4,UR nominee
+2010,Black Eyed Peas,I Gotta Feeling,record-of-the-year,nominee,Black Eyed Peas,Black Eyed Peas,UR,,,257,0.4,UR nominee
+2010,Lady Gaga,Poker Face,record-of-the-year,nominee,Lady Gaga,Lady Gaga,white,,,258,0.4,white nominee
+2010,Taylor Swift,You Belong With Me,record-of-the-year,nominee,Taylor Swift,Taylor Swift,white,,,259,0.4,white nominee
+2009,Alison Krauss & Robert Plant,Please Read the Letter,record-of-the-year,winner,Alison Krauss  Robert Plant,Alison Krauss & Robert Plant,white,,,260,0.3333333333333333,white winner
+2009,Adele,Chasing Pavements,record-of-the-year,nominee,Adele,Adele,white,,,261,0.3333333333333333,white nominee
+2009,Coldplay,Viva La Vida,record-of-the-year,nominee,Coldplay,Coldplay,white,,,262,0.3333333333333333,white nominee
+2009,Leona Lewis,Bleeding Love,record-of-the-year,nominee,Leona Lewis,Leona Lewis,UR,,,263,0.3333333333333333,UR nominee
+2009,M.I.A.,Paper Planes,record-of-the-year,nominee,MIA,M.I.A.,UR,,,264,0.3333333333333333,UR nominee
+2008,Amy Winehouse,Rehab,record-of-the-year,winner,Amy Winehouse,Amy Winehouse,white,,,265,0.3333333333333333,white winner
+2008,Beyonce,Irreplaceable,record-of-the-year,nominee,Beyonce,Beyonce,UR,,,266,0.3333333333333333,UR nominee
+2008,Foo Fighters,The Pretender,record-of-the-year,nominee,Foo Fighters,Foo Fighters,white,,,267,0.3333333333333333,white nominee
+2008,Rihanna featuring Jay-Z,Umbrella,record-of-the-year,nominee,Rihanna featuring JayZ,Rihanna featuring Jay-Z,UR,,,268,0.3333333333333333,UR nominee
+2008,Justin Timberlake,What Goes Around…Comes Around,record-of-the-year,nominee,Justin Timberlake,Justin Timberlake,white,,,269,0.3333333333333333,white nominee
+2007,Dixie Chicks,Not Ready to Make Nice,record-of-the-year,winner,Dixie Chicks,Dixie Chicks,white,,,270,0.4,white winner
+2007,Mary J. Blige,Be Without You,record-of-the-year,nominee,Mary J Blige,Mary J. Blige,UR,,,271,0.4,UR nominee
+2007,James Blunt,You’re Beautiful,record-of-the-year,nominee,James Blunt,James Blunt,white,,,272,0.4,white nominee
+2007,Gnarls Barkley,Crazy,record-of-the-year,nominee,Gnarls Barkley,Gnarls Barkley,UR,,,273,0.4,UR nominee
+2007,Corinne Bailey Rae,Put Your Records On,record-of-the-year,nominee,Corinne Bailey Rae,Corinne Bailey Rae,UR,,,274,0.4,UR nominee
+2006,Green Day,Boulevard of Broken Dreams,record-of-the-year,winner,Green Day,Green Day,white,,,275,0.4,white winner
+2006,Mariah Carey,We Belong Together,record-of-the-year,nominee,Mariah Carey,Mariah Carey,UR,,,276,0.4,UR nominee
+2006,Gorillaz,Feel Good Inc.,record-of-the-year,nominee,Gorillaz,Gorillaz,white,,,277,0.4,white nominee
+2006,Gwen Stefani,Hollaback Girl,record-of-the-year,nominee,Gwen Stefani,Gwen Stefani,white,,,278,0.4,white nominee
+2006,Kanye West,Gold Digger,record-of-the-year,nominee,Kanye West,Kanye West,UR,,,279,0.4,UR nominee
+2005,Ray Charles and Norah Jones,Here We Go Again,record-of-the-year,winner,Ray Charles and Norah Jones,Ray Charles and Norah Jones,UR,,,280,0.6666666666666666,UR winner
+2005,Black Eyed Peas,Let’s Get It Started,record-of-the-year,nominee,Black Eyed Peas,Black Eyed Peas,UR,,,281,0.6666666666666666,UR nominee
+2005,Green Day,American Idiot,record-of-the-year,nominee,Green Day,Green Day,white,,,282,0.6666666666666666,white nominee
+2005,Los Lonely Boys,Heaven,record-of-the-year,nominee,Los Lonely Boys,Los Lonely Boys,UR,,,283,0.6666666666666666,UR nominee
+2005,Usher featuring Lil Jon & Ludacris,Yeah!,record-of-the-year,nominee,Usher featuring Lil Jon  Ludacris,Usher featuring Lil Jon & Ludacris,UR,,,284,0.6666666666666666,UR nominee
+2004,Coldplay,Clocks,record-of-the-year,winner,Coldplay,Coldplay,white,,,285,0.4666666666666667,white winner
+2004,Beyonce & Jay-Z,Crazy in Love,record-of-the-year,nominee,Beyonce  JayZ,Beyonce & Jay-Z,UR,,,286,0.4666666666666667,UR nominee
+2004,Black Eyed Peas & Justin Timberlake,Where is the Love,record-of-the-year,nominee,Black Eyed Peas  Justin Timberlake,Black Eyed Peas & Justin Timberlake,white,,,287,0.4666666666666667,white nominee
+2004,Eminem,Lose Yourself,record-of-the-year,nominee,Eminem,Eminem,white,,,288,0.4666666666666667,white nominee
+2004,Outkast,Hey Ya!,record-of-the-year,nominee,Outkast,Outkast,UR,,,289,0.4666666666666667,UR nominee
+2003,Norah Jones,Don’t Know Why,record-of-the-year,winner,Norah Jones,Norah Jones,UR,,,290,0.4,UR winner
+2003,Vanessa Carlton,A Thousand Miles,record-of-the-year,nominee,Vanessa Carlton,Vanessa Carlton,white,,,291,0.4,white nominee
+2003,Eminem,Without Me,record-of-the-year,nominee,Eminem,Eminem,white,,,292,0.4,white nominee
+2003,Nelly & Kelly Rowland,Dilemma,record-of-the-year,nominee,Nelly  Kelly Rowland,Nelly & Kelly Rowland,UR,,,293,0.4,UR nominee
+2003,Nickelback,How You Remind Me,record-of-the-year,nominee,Nickelback,Nickelback,white,,,294,0.4,white nominee
+2002,U2,Walk On,record-of-the-year,winner,U2,U2,white,,,295,0.5333333333333333,white winner
+2002,India.Arie,Video,record-of-the-year,nominee,IndiaArie,India.Arie,UR,,,296,0.5333333333333333,UR nominee
+2002,Alicia Keys,Fallin’,record-of-the-year,nominee,Alicia Keys,Alicia Keys,UR,,,297,0.5333333333333333,UR nominee
+2002,Outkast,Ms. Jackson,record-of-the-year,nominee,Outkast,Outkast,UR,,,298,0.5333333333333333,UR nominee
+2002,Train,Drops of Jupiter (Tell Me),record-of-the-year,nominee,Train,Train,white,,,299,0.5333333333333333,white nominee
+2001,U2,Beautiful Day,record-of-the-year,winner,U2,U2,white,,,300,0.26666666666666666,white winner
+2001,Destiny’s Child,Say My Name,record-of-the-year,nominee,Destinys Child,Destiny's Child,UR,,,301,0.26666666666666666,UR nominee
+2001,Macy Gray,I Try,record-of-the-year,nominee,Macy Gray,Macy Gray,UR,,,302,0.26666666666666666,UR nominee
+2001,Madonna,Music,record-of-the-year,nominee,Madonna,Madonna,white,,,303,0.26666666666666666,white nominee
+2001,N Sync,Bye Bye Bye,record-of-the-year,nominee,N Sync,N Sync,white,,,304,0.26666666666666666,white nominee
+2000,Santana featuring Rob Thomas,Smooth,record-of-the-year,winner,Santana featuring Rob Thomas,Santana featuring Rob Thomas,UR,shared,,305,0.4,UR winner
+2000,Backstreet Boys,I Want It That Way,record-of-the-year,nominee,Backstreet Boys,Backstreet Boys,white,,,306,0.4,white nominee
+2000,Cher,Believe,record-of-the-year,nominee,Cher,Cher,white,,,307,0.4,white nominee
+2000,Ricky Martin,Livin’ La Liva Loca,record-of-the-year,nominee,Ricky Martin,Ricky Martin,UR,,,308,0.4,UR nominee
+2000,TLC,No Scrubs,record-of-the-year,nominee,TLC,TLC,UR,,,309,0.4,UR nominee
+1999,Celine Dion,My Heart Will Go On,record-of-the-year,winner,Celine Dion,Celine Dion,white,,,310,0.2,white winner
+1999,Brandy & Monica,The Boy Is Mine,record-of-the-year,nominee,Brandy  Monica,Brandy & Monica,UR,,,311,0.2,UR nominee
+1999,Goo Goo Dolls,Iris,record-of-the-year,nominee,Goo Goo Dolls,Goo Goo Dolls,white,,,312,0.2,white nominee
+1999,Madonna,Ray of Light,record-of-the-year,nominee,Madonna,Madonna,white,,,313,0.2,white nominee
+1999,Shania Twain,You’re Still the One,record-of-the-year,nominee,Shania Twain,Shania Twain,white,,,314,0.2,white nominee
+1998,Shawn Colvin,Sunny Came Home,record-of-the-year,winner,Shawn Colvin,Shawn Colvin,white,,,315,0.3333333333333333,white winner
+1998,Paula Cole,Where Have All the Cowboys Gone?,record-of-the-year,nominee,Paula Cole,Paula Cole,white,,,316,0.3333333333333333,white nominee
+1998,Sheryl Crow,Everyday is a Winding Road,record-of-the-year,nominee,Sheryl Crow,Sheryl Crow,white,,,317,0.3333333333333333,white nominee
+1998,Hanson,MMMBop,record-of-the-year,nominee,Hanson,Hanson,white,,,318,0.3333333333333333,white nominee
+1998,R. Kelly,I Believe I Can Fly,record-of-the-year,nominee,R Kelly,R. Kelly,UR,,,319,0.3333333333333333,UR nominee
+1997,Eric Clapton,Change the World,record-of-the-year,winner,Eric Clapton,Eric Clapton,white,,,320,0.4,white winner
+1997,Tracy Chapman,Give Me One Reason,record-of-the-year,nominee,Tracy Chapman,Tracy Chapman,UR,,,321,0.4,UR nominee
+1997,Celine Dion,Because You Loved Me,record-of-the-year,nominee,Celine Dion,Celine Dion,white,,,322,0.4,white nominee
+1997,Alanis Morissette,Ironic,record-of-the-year,nominee,Alanis Morissette,Alanis Morissette,white,,,323,0.4,white nominee
+1997,Smashing Pumpkins,1979,record-of-the-year,nominee,Smashing Pumpkins,Smashing Pumpkins,UR,,,324,0.4,UR nominee
+1996,Seal,Crazy,record-of-the-year,winner,Seal,Seal,UR,,,325,0.5333333333333333,UR winner
+1996,Mariah Carey & Boyz II Men,One Sweet Day,record-of-the-year,nominee,Mariah Carey  Boyz II Men,Mariah Carey & Boyz II Men,UR,,,326,0.5333333333333333,UR nominee
+1996,Coolio featuring L.V.,Gangsta’s Paradise,record-of-the-year,nominee,Coolio featuring LV,Coolio featuring L.V.,UR,,,327,0.5333333333333333,UR nominee
+1996,Joan Osborne,One of Us,record-of-the-year,nominee,Joan Osborne,Joan Osborne,white,,,328,0.5333333333333333,white nominee
+1996,TLC,Waterfalls,record-of-the-year,nominee,TLC,TLC,UR,,,329,0.5333333333333333,UR nominee
+1995,Sheryl Crow,All I Wanna Do,record-of-the-year,winner,Sheryl Crow,Sheryl Crow,white,,,330,0.2,white winner
+1995,Boyz II Men,I’ll Make Love to You,record-of-the-year,nominee,Boyz II Men,Boyz II Men,UR,,,331,0.2,UR nominee
+1995,Mary Chapin Carpenter,He Thinks He’ll Keep Her,record-of-the-year,nominee,Mary Chapin Carpenter,Mary Chapin Carpenter,white,,,332,0.2,white nominee
+1995,Bonnie Raitt,Love Sneakin’ Up On You,record-of-the-year,nominee,Bonnie Raitt,Bonnie Raitt,white,,,333,0.2,white nominee
+1995,Bruce Springsteen,Streets of Philadelphia,record-of-the-year,nominee,Bruce Springsteen,Bruce Springsteen,white,,,334,0.2,white nominee
+1994,Whitney Houston,I Will Always Love You,record-of-the-year,winner,Whitney Houston,Whitney Houston,white,,,335,0.3333333333333333,white winner
+1994,Peabo Bryson & Regina Belle,A Whole New World,record-of-the-year,nominee,Peabo Bryson  Regina Belle,Peabo Bryson & Regina Belle,UR,,,336,0.3333333333333333,UR nominee
+1994,Billy Joel,The River of Dreams,record-of-the-year,nominee,Billy Joel,Billy Joel,white,,,337,0.3333333333333333,white nominee
+1994,Sting,If I Ever Lose My Faith in You,record-of-the-year,nominee,Sting,Sting,white,,,338,0.3333333333333333,white nominee
+1994,Neil Young,Harvest Moon,record-of-the-year,nominee,Neil Young,Neil Young,white,,,339,0.3333333333333333,white nominee
+1993,Eric Clapton,Tears in Heaven,record-of-the-year,winner,Eric Clapton,Eric Clapton,white,,,340,0.3333333333333333,white winner
+1993,Billy Ray Cyrus,Achy Breaky Heart,record-of-the-year,nominee,Billy Ray Cyrus,Billy Ray Cyrus,white,,,341,0.3333333333333333,white nominee
+1993,Celine Dion & Peabo Bryson,Beauty and the Beast,record-of-the-year,nominee,Celine Dion  Peabo Bryson,Celine Dion & Peabo Bryson,UR,shared,,342,0.3333333333333333,UR nominee
+1993,k.d. lang,Constant Craving,record-of-the-year,nominee,kd lang,k.d. lang,white,,,343,0.3333333333333333,white nominee
+1993,Vanessa Williams,Save the Best for Last,record-of-the-year,nominee,Vanessa Williams,Vanessa Williams,UR,,,344,0.3333333333333333,UR nominee
+1992,Natalie Cole with Nat King Cole,Unforgettable,record-of-the-year,winner,Natalie Cole with Nat King Cole,Natalie Cole with Nat King Cole,UR,,,345,0.4,UR winner
+1992,Bryan Adams,(Everything I Do) I Do it for You,record-of-the-year,nominee,Bryan Adams,Bryan Adams,white,,,346,0.4,white nominee
+1992,Amy Grant,Baby Baby,record-of-the-year,nominee,Amy Grant,Amy Grant,white,,,347,0.4,white nominee
+1992,Bonnie Raitt,Something to Talk About,record-of-the-year,nominee,Bonnie Raitt,Bonnie Raitt,white,,,348,0.4,white nominee
+1992,R.E.M.,Losing My Religion,record-of-the-year,nominee,REM,R.E.M.,white,,,349,0.4,white nominee
+1991,Phil Collins,Another Day in Paradise,record-of-the-year,winner,Phil Collins,Phil Collins,white,,,350,0.4,white winner
+1991,Mariah Carey,Vision of Love,record-of-the-year,nominee,Mariah Carey,Mariah Carey,UR,,,351,0.4,UR nominee
+1991,MC Hammer,U Can’t Touch This,record-of-the-year,nominee,MC Hammer,MC Hammer,UR,,,352,0.4,UR nominee
+1991,Bette Midler,From a Distance,record-of-the-year,nominee,Bette Midler,Bette Midler,white,,,353,0.4,white nominee
+1991,Sinead O’Connor,Nothing Compares 2 U,record-of-the-year,nominee,Sinead OConnor,Sinead O'Connor,white,,,354,0.4,white nominee
+1990,Bette Midler,Wind Beneath My Wings,record-of-the-year,winner,Bette Midler,Bette Midler,white,,,355,0.4,white winner
+1990,Don Henley,The End of the Innocence,record-of-the-year,nominee,Don Henley,Don Henley,white,,,356,0.4,white nominee
+1990,Fine Young Cannibals,She Drives Me Crazy,record-of-the-year,nominee,Fine Young Cannibals,Fine Young Cannibals,UR,,,357,0.4,UR nominee
+1990,Billy Joel,We Didn’t Start the Fire,record-of-the-year,nominee,Billy Joel,Billy Joel,white,,,358,0.4,white nominee
+1990,Mike & the Mechanics,The Living Years,record-of-the-year,nominee,Mike  the Mechanics,Mike & the Mechanics,white,,,359,0.4,white nominee
+2022,Olivia Rodrigo,,best-new-artist,winner,Olivia Rodrigo,Olivia Rodrigo,UR,,,360,0.6666666666666666,UR winner
+2022,Arooj Aftab,,best-new-artist,nominee,Arooj Aftab,Arooj Aftab,UR,,,361,0.6666666666666666,UR nominee
+2022,Jimmie Allen,,best-new-artist,nominee,Jimmie Allen,Jimmie Allen,UR,,,362,0.6666666666666666,UR nominee
+2022,Baby Keem,,best-new-artist,nominee,Baby Keem,Baby Keem,UR,,,363,0.6666666666666666,UR nominee
+2022,Finneas,,best-new-artist,nominee,Finneas,Finneas,white,,,364,0.6666666666666666,white nominee
+2022,Glass Animals,,best-new-artist,nominee,Glass Animals,Glass Animals,white,,,365,0.6666666666666666,white nominee
+2022,Japanese Breakfast,,best-new-artist,nominee,Japanese Breakfast,Japanese Breakfast,UR,,,366,0.6666666666666666,UR nominee
+2022,The Kid Laroi,,best-new-artist,nominee,The Kid Laroi,The Kid Laroi,UR,,,367,0.6666666666666666,UR nominee
+2022,Arlo Parks,,best-new-artist,nominee,Arlo Parks,Arlo Parks,UR,,,368,0.6666666666666666,UR nominee
+2022,Saweetie,,best-new-artist,nominee,Saweetie,Saweetie,UR,,,369,0.6666666666666666,UR nominee
+2021,Megan Thee Stallion,,best-new-artist,winner,Megan Thee Stallion,Megan Thee Stallion,UR,,,370,0.5416666666666666,UR winner
+2021,Ingrid Andress,,best-new-artist,nominee,Ingrid Andress,Ingrid Andress,white,,,371,0.5416666666666666,white nominee
+2021,Phoebe Bridgers,,best-new-artist,nominee,Phoebe Bridgers,Phoebe Bridgers,white,,,372,0.5416666666666666,white nominee
+2021,Chika,,best-new-artist,nominee,Chika,Chika,UR,,,373,0.5416666666666666,UR nominee
+2021,Noah Cyrus,,best-new-artist,nominee,Noah Cyrus,Noah Cyrus,white,,,374,0.5416666666666666,white nominee
+2021,D Smoke,,best-new-artist,nominee,D Smoke,D Smoke,UR,,,375,0.5416666666666666,UR nominee
+2021,Doja Cat,,best-new-artist,nominee,Doja Cat,Doja Cat,UR,,,376,0.5416666666666666,UR nominee
+2021,Kaytranada,,best-new-artist,nominee,Kaytranada,Kaytranada,UR,,,377,0.5416666666666666,UR nominee
+2020,Billie Eilish,,best-new-artist,winner,Billie Eilish,Billie Eilish,white,,,378,0.5833333333333334,white winner
+2020,Black Pumas,,best-new-artist,nominee,Black Pumas,Black Pumas,UR,,,379,0.5833333333333334,UR nominee
+2020,Maggie Rogers,,best-new-artist,nominee,Maggie Rogers,Maggie Rogers,white,,,380,0.5833333333333334,white nominee
+2020,Lil Nas X,,best-new-artist,nominee,Lil Nas X,Lil Nas X,UR,,,381,0.5833333333333334,UR nominee
+2020,Lizzo,,best-new-artist,nominee,Lizzo,Lizzo,UR,,,382,0.5833333333333334,UR nominee
+2020,Rosalia,,best-new-artist,nominee,Rosalia,Rosalia,UR,,,383,0.5833333333333334,UR nominee
+2020,Tank and the Bangas,,best-new-artist,nominee,Tank and the Bangas,Tank and the Bangas,UR,,,384,0.5833333333333334,UR nominee
+2020,Yola,,best-new-artist,nominee,Yola,Yola,UR,,,385,0.5833333333333334,UR nominee
+2019,Dua Lipa,,best-new-artist,winner,Dua Lipa,Dua Lipa,white,,,386,0.5416666666666666,white winner
+2019,Chloe x Halle,,best-new-artist,nominee,Chloe x Halle,Chloe x Halle,UR,,,387,0.5416666666666666,UR nominee
+2019,Luke Combs,,best-new-artist,nominee,Luke Combs,Luke Combs,white,,,388,0.5416666666666666,white nominee
+2019,Greta Van Fleet,,best-new-artist,nominee,Greta Van Fleet,Greta Van Fleet,white,,,389,0.5416666666666666,white nominee
+2019,H.E.R.,,best-new-artist,nominee,HER,H.E.R.,UR,,,390,0.5416666666666666,UR nominee
+2019,Margo Price,,best-new-artist,nominee,Margo Price,Margo Price,white,,,391,0.5416666666666666,white nominee
+2019,Bebe Rexha,,best-new-artist,nominee,Bebe Rexha,Bebe Rexha,white,,,392,0.5416666666666666,white nominee
+2019,Jorja Smith,,best-new-artist,nominee,Jorja Smith,Jorja Smith,UR,,,393,0.5416666666666666,UR nominee
+2018,Alessia Cara,,best-new-artist,winner,Alessia Cara,Alessia Cara,white,,,394,0.8666666666666667,white winner
+2018,Khalid,,best-new-artist,nominee,Khalid,Khalid,UR,,,395,0.8666666666666667,UR nominee
+2018,Lil Uzi Vert,,best-new-artist,nominee,Lil Uzi Vert,Lil Uzi Vert,UR,,,396,0.8666666666666667,UR nominee
+2018,Julia Michaels,,best-new-artist,nominee,Julia Michaels,Julia Michaels,UR,,,397,0.8666666666666667,UR nominee
+2018,SZA,,best-new-artist,nominee,SZA,SZA,UR,,,398,0.8666666666666667,UR nominee
+2017,Chance the Rapper,,best-new-artist,winner,Chance the Rapper,Chance the Rapper,UR,,,399,0.4,UR winner
+2017,Kelsea Ballerini,,best-new-artist,nominee,Kelsea Ballerini,Kelsea Ballerini,white,,,400,0.4,white nominee
+2017,Chainsmokers,,best-new-artist,nominee,Chainsmokers,Chainsmokers,white,,,401,0.4,white nominee
+2017,Maren Morris,,best-new-artist,nominee,Maren Morris,Maren Morris,white,,,402,0.4,white nominee
+2017,Anderson.Paak,,best-new-artist,nominee,AndersonPaak,Anderson.Paak,UR,,,403,0.4,UR nominee
+2016,Meghan Trainor,,best-new-artist,winner,Meghan Trainor,Meghan Trainor,white,,,404,0.4666666666666667,white winner
+2016,Courtney Barnett,,best-new-artist,nominee,Courtney Barnett,Courtney Barnett,white,,,405,0.4666666666666667,white nominee
+2016,James Bay,,best-new-artist,nominee,James Bay,James Bay,white,,,406,0.4666666666666667,white nominee
+2016,Sam Hunt,,best-new-artist,nominee,Sam Hunt,Sam Hunt,white,,,407,0.4666666666666667,white nominee
+2016,Tori Kelly,,best-new-artist,nominee,Tori Kelly,Tori Kelly,UR,,,408,0.4666666666666667,UR nominee
+2015,Sam Smith,,best-new-artist,winner,Sam Smith,Sam Smith,white,,,409,0.13333333333333333,white winner
+2015,Iggy Azalea,,best-new-artist,nominee,Iggy Azalea,Iggy Azalea,white,,,410,0.13333333333333333,white nominee
+2015,Bastille,,best-new-artist,nominee,Bastille,Bastille,white,,,411,0.13333333333333333,white nominee
+2015,Brandy Clark,,best-new-artist,nominee,Brandy Clark,Brandy Clark,white,,,412,0.13333333333333333,white nominee
+2015,Haim,,best-new-artist,nominee,Haim,Haim,white,,,413,0.13333333333333333,white nominee
+2014,Macklemore & Ryan Lewis,,best-new-artist,winner,Macklemore  Ryan Lewis,Macklemore & Ryan Lewis,white,,,414,0.3333333333333333,white winner
+2014,James Blake,,best-new-artist,nominee,James Blake,James Blake,white,,,415,0.3333333333333333,white nominee
+2014,Kendrick Lamar,,best-new-artist,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,416,0.3333333333333333,UR nominee
+2014,Kacey Musgraves,,best-new-artist,nominee,Kacey Musgraves,Kacey Musgraves,white,,,417,0.3333333333333333,white nominee
+2014,Ed Sheeran,,best-new-artist,nominee,Ed Sheeran,Ed Sheeran,white,,,418,0.3333333333333333,white nominee
+2013,fun.,,best-new-artist,winner,fun,fun.,white,,,419,0.3125,white winner
+2013,Alabama Shakes,,best-new-artist,nominee,Alabama Shakes,Alabama Shakes,UR,,,420,0.3125,UR nominee
+2013,Hunter Hayes,,best-new-artist,nominee,Hunter Hayes,Hunter Hayes,white,,,421,0.3125,white nominee
+2013,Lumineers,,best-new-artist,nominee,Lumineers,Lumineers,white,,,422,0.3125,white nominee
+2013,Frank Ocean,,best-new-artist,nominee,Frank Ocean,Frank Ocean,UR,,,423,0.3125,UR nominee
+2012,Bon Iver,,best-new-artist,winner,Bon Iver,Bon Iver,white,,,424,0.3333333333333333,white winner
+2012,The Band Perry,,best-new-artist,nominee,The Band Perry,The Band Perry,white,,,425,0.3333333333333333,white nominee
+2012,J. Cole,,best-new-artist,nominee,J Cole,J. Cole,UR,,,426,0.3333333333333333,UR nominee
+2012,Nicki Minaj,,best-new-artist,nominee,Nicki Minaj,Nicki Minaj,UR,,,427,0.3333333333333333,UR nominee
+2012,Skrillex,,best-new-artist,nominee,Skrillex,Skrillex,white,,,428,0.3333333333333333,white nominee
+2011,Esperanza Spalding,,best-new-artist,winner,Esperanza Spalding,Esperanza Spalding,white,,,429,0.3333333333333333,white winner
+2011,Drake,,best-new-artist,nominee,Drake,Drake,UR,,,430,0.3333333333333333,UR nominee
+2011,Florence + the Machine,,best-new-artist,nominee,Florence  the Machine,Florence + the Machine,white,,,431,0.3333333333333333,white nominee
+2011,Justin Bieber,,best-new-artist,nominee,Justin Bieber,Justin Bieber,white,,,432,0.3333333333333333,white nominee
+2011,Mumford & Sons,,best-new-artist,nominee,Mumford  Sons,Mumford & Sons,white,,,433,0.3333333333333333,white nominee
+2010,Zac Brown Band,,best-new-artist,winner,Zac Brown Band,Zac Brown Band,white,,,434,0.4,white winner
+2010,Keri Hilson,,best-new-artist,nominee,Keri Hilson,Keri Hilson,UR,,,435,0.4,UR nominee
+2010,MGMT,,best-new-artist,nominee,MGMT,MGMT,white,,,436,0.4,white nominee
+2010,Silversun Pickups,,best-new-artist,nominee,Silversun Pickups,Silversun Pickups,UR,shared,,437,0.4,UR nominee
+2010,The Ting Tings,,best-new-artist,nominee,The Ting Tings,The Ting Tings,white,,,438,0.4,white nominee
+2009,Adele,,best-new-artist,winner,Adele,Adele,white,,,439,0.3333333333333333,white winner
+2009,Duffy,,best-new-artist,nominee,Duffy,Duffy,white,,,440,0.3333333333333333,white nominee
+2009,Jonas Brothers,,best-new-artist,nominee,Jonas Brothers,Jonas Brothers,white,,,441,0.3333333333333333,white nominee
+2009,Lady Antebellum,,best-new-artist,nominee,Lady Antebellum,Lady Antebellum,white,,,442,0.3333333333333333,white nominee
+2009,Jazmine Sullivan,,best-new-artist,nominee,Jazmine Sullivan,Jazmine Sullivan,UR,,,443,0.3333333333333333,UR nominee
+2008,Amy Winehouse,,best-new-artist,winner,Amy Winehouse,Amy Winehouse,white,,,444,0.3333333333333333,white winner
+2008,Feist,,best-new-artist,nominee,Feist,Feist,white,,,445,0.3333333333333333,white nominee
+2008,Ledisi,,best-new-artist,nominee,Ledisi,Ledisi,UR,,,446,0.3333333333333333,UR nominee
+2008,Paramore,,best-new-artist,nominee,Paramore,Paramore,white,,,447,0.3333333333333333,white nominee
+2008,Taylor Swift,,best-new-artist,nominee,Taylor Swift,Taylor Swift,white,,,448,0.3333333333333333,white nominee
+2007,Carrie Underwood,,best-new-artist,winner,Carrie Underwood,Carrie Underwood,white,,,449,0.4,white winner
+2007,James Blunt,,best-new-artist,nominee,James Blunt,James Blunt,white,,,450,0.4,white nominee
+2007,Chris Brown,,best-new-artist,nominee,Chris Brown,Chris Brown,UR,,,451,0.4,UR nominee
+2007,Imogen Heap,,best-new-artist,nominee,Imogen Heap,Imogen Heap,white,,,452,0.4,white nominee
+2007,Corinne Bailey Rae,,best-new-artist,nominee,Corinne Bailey Rae,Corinne Bailey Rae,UR,,,453,0.4,UR nominee
+2006,John Legend,,best-new-artist,winner,John Legend,John Legend,UR,,,454,0.4,UR winner
+2006,Ciara,,best-new-artist,nominee,Ciara,Ciara,UR,,,455,0.4,UR nominee
+2006,Fall Out Boy,,best-new-artist,nominee,Fall Out Boy,Fall Out Boy,white,,,456,0.4,white nominee
+2006,Keane,,best-new-artist,nominee,Keane,Keane,white,,,457,0.4,white nominee
+2006,Sugarland,,best-new-artist,nominee,Sugarland,Sugarland,white,,,458,0.4,white nominee
+2005,Maroon 5,,best-new-artist,winner,Maroon 5,Maroon 5,white,,,459,0.6666666666666666,white winner
+2005,Los Lonely Boys,,best-new-artist,nominee,Los Lonely Boys,Los Lonely Boys,UR,,,460,0.6666666666666666,UR nominee
+2005,Joss Stone,,best-new-artist,nominee,Joss Stone,Joss Stone,white,,,461,0.6666666666666666,white nominee
+2005,Kanye West,,best-new-artist,nominee,Kanye West,Kanye West,UR,,,462,0.6666666666666666,UR nominee
+2005,Gretchen Wilson,,best-new-artist,nominee,Gretchen Wilson,Gretchen Wilson,white,,,463,0.6666666666666666,white nominee
+2004,Evanescence,,best-new-artist,winner,Evanescence,Evanescence,white,,,464,0.4666666666666667,white winner
+2004,50 Cent,,best-new-artist,nominee,50 Cent,50 Cent,UR,,,465,0.4666666666666667,UR nominee
+2004,Fountains of Wayne,,best-new-artist,nominee,Fountains of Wayne,Fountains of Wayne,white,,,466,0.4666666666666667,white nominee
+2004,Heather Headley,,best-new-artist,nominee,Heather Headley,Heather Headley,UR,,,467,0.4666666666666667,UR nominee
+2004,Sean Paul,,best-new-artist,nominee,Sean Paul,Sean Paul,UR,,,468,0.4666666666666667,UR nominee
+2003,Norah Jones,,best-new-artist,winner,Norah Jones,Norah Jones,UR,,,469,0.4,UR winner
+2003,Ashanti,,best-new-artist,nominee,Ashanti,Ashanti,white,,,470,0.4,white nominee
+2003,Michelle Branch,,best-new-artist,nominee,Michelle Branch,Michelle Branch,UR,,,471,0.4,UR nominee
+2003,Avril Lavigne,,best-new-artist,nominee,Avril Lavigne,Avril Lavigne,white,,,472,0.4,white nominee
+2003,John Mayer,,best-new-artist,nominee,John Mayer,John Mayer,white,,,473,0.4,white nominee
+2002,Alicia Keys,,best-new-artist,winner,Alicia Keys,Alicia Keys,UR,,,474,0.5333333333333333,UR winner
+2002,India.Arie,,best-new-artist,nominee,IndiaArie,India.Arie,UR,,,475,0.5333333333333333,UR nominee
+2002,Nelly Furtado,,best-new-artist,nominee,Nelly Furtado,Nelly Furtado,white,,,476,0.5333333333333333,white nominee
+2002,David Gray,,best-new-artist,nominee,David Gray,David Gray,white,,,477,0.5333333333333333,white nominee
+2002,Linkin Park,,best-new-artist,nominee,Linkin Park,Linkin Park,white,,,478,0.5333333333333333,white nominee
+2001,Shelby Lynne,,best-new-artist,winner,Shelby Lynne,Shelby Lynne,white,,,479,0.26666666666666666,white winner
+2001,Brad Paisley,,best-new-artist,nominee,Brad Paisley,Brad Paisley,white,,,480,0.26666666666666666,white nominee
+2001,Papa Roach,,best-new-artist,nominee,Papa Roach,Papa Roach,white,,,481,0.26666666666666666,white nominee
+2001,Jill Scott,,best-new-artist,nominee,Jill Scott,Jill Scott,UR,,,482,0.26666666666666666,UR nominee
+2001,Sisqo,,best-new-artist,nominee,Sisqo,Sisqo,UR,,,483,0.26666666666666666,UR nominee
+2000,Christina Aguilera,,best-new-artist,winner,Christina Aguilera,Christina Aguilera,white,,,484,0.4,white winner
+2000,Macy Gray,,best-new-artist,nominee,Macy Gray,Macy Gray,UR,,,485,0.4,UR nominee
+2000,Kid Rock,,best-new-artist,nominee,Kid Rock,Kid Rock,white,,,486,0.4,white nominee
+2000,Britney Spears,,best-new-artist,nominee,Britney Spears,Britney Spears,white,,,487,0.4,white nominee
+2000,Susan Tedeschi,,best-new-artist,nominee,Susan Tedeschi,Susan Tedeschi,white,,,488,0.4,white nominee
+1999,Lauryn Hill,,best-new-artist,winner,Lauryn Hill,Lauryn Hill,UR,,,489,0.2,UR winner
+1999,Backstreet Boys,,best-new-artist,nominee,Backstreet Boys,Backstreet Boys,white,,,490,0.2,white nominee
+1999,Andrea Bocelli,,best-new-artist,nominee,Andrea Bocelli,Andrea Bocelli,white,,,491,0.2,white nominee
+1999,Dixie Chicks,,best-new-artist,nominee,Dixie Chicks,Dixie Chicks,white,,,492,0.2,white nominee
+1999,Natalie Imbruglia,,best-new-artist,nominee,Natalie Imbruglia,Natalie Imbruglia,white,,,493,0.2,white nominee
+1998,Paula Cole,,best-new-artist,winner,Paula Cole,Paula Cole,white,,,494,0.3333333333333333,white winner
+1998,Fiona Apple,,best-new-artist,nominee,Fiona Apple,Fiona Apple,white,,,495,0.3333333333333333,white nominee
+1998,Erykah Badu,,best-new-artist,nominee,Erykah Badu,Erykah Badu,UR,,,496,0.3333333333333333,UR nominee
+1998,Puff Daddy,,best-new-artist,nominee,Puff Daddy,Puff Daddy,UR,,,497,0.3333333333333333,UR nominee
+1998,Hanson,,best-new-artist,nominee,Hanson,Hanson,white,,,498,0.3333333333333333,white nominee
+1997,LeAnn Rimes,,best-new-artist,winner,LeAnn Rimes,LeAnn Rimes,white,,,499,0.4,white winner
+1997,Garbage,,best-new-artist,nominee,Garbage,Garbage,white,,,500,0.4,white nominee
+1997,Jewel,,best-new-artist,nominee,Jewel,Jewel,white,,,501,0.4,white nominee
+1997,No Doubt,,best-new-artist,nominee,No Doubt,No Doubt,white,,,502,0.4,white nominee
+1997,The Tony Rich Project,,best-new-artist,nominee,The Tony Rich Project,The Tony Rich Project,UR,,,503,0.4,UR nominee
+1996,Hootie & the Blowfish,,best-new-artist,winner,Hootie  the Blowfish,Hootie & the Blowfish,UR,shared,,504,0.5333333333333333,UR winner
+1996,Brandy,,best-new-artist,nominee,Brandy,Brandy,UR,,,505,0.5333333333333333,UR nominee
+1996,Alanis Morissette,,best-new-artist,nominee,Alanis Morissette,Alanis Morissette,white,,,506,0.5333333333333333,white nominee
+1996,Joan Osborne,,best-new-artist,nominee,Joan Osborne,Joan Osborne,white,,,507,0.5333333333333333,white nominee
+1996,Shania Twain,,best-new-artist,nominee,Shania Twain,Shania Twain,white,,,508,0.5333333333333333,white nominee
+1995,Sheryl Crow,,best-new-artist,winner,Sheryl Crow,Sheryl Crow,white,,,509,0.2,white winner
+1995,Ace of Base,,best-new-artist,nominee,Ace of Base,Ace of Base,white,,,510,0.2,white nominee
+1995,Counting Crows,,best-new-artist,nominee,Counting Crows,Counting Crows,white,,,511,0.2,white nominee
+1995,Crash Test Dummies,,best-new-artist,nominee,Crash Test Dummies,Crash Test Dummies,white,,,512,0.2,white nominee
+1995,Green Day,,best-new-artist,nominee,Green Day,Green Day,white,,,513,0.2,white nominee
+1994,Toni Braxton,,best-new-artist,winner,Toni Braxton,Toni Braxton,UR,,,514,0.3333333333333333,UR winner
+1994,Belly,,best-new-artist,nominee,Belly,Belly,UR,,,515,0.3333333333333333,UR nominee
+1994,Blind Melon,,best-new-artist,nominee,Blind Melon,Blind Melon,white,,,516,0.3333333333333333,white nominee
+1994,Digable Planets,,best-new-artist,nominee,Digable Planets,Digable Planets,UR,,,517,0.3333333333333333,UR nominee
+1994,SWV,,best-new-artist,nominee,SWV,SWV,UR,,,518,0.3333333333333333,UR nominee
+1993,Arrested Development,,best-new-artist,winner,Arrested Development,Arrested Development,UR,,,519,0.3333333333333333,UR winner
+1993,Billy Ray Cyrus,,best-new-artist,nominee,Billy Ray Cyrus,Billy Ray Cyrus,white,,,520,0.3333333333333333,white nominee
+1993,Sophie B. Hawkins,,best-new-artist,nominee,Sophie B Hawkins,Sophie B. Hawkins,white,,,521,0.3333333333333333,white nominee
+1993,Kris Kross,,best-new-artist,nominee,Kris Kross,Kris Kross,UR,,,522,0.3333333333333333,UR nominee
+1993,Jon Secada,,best-new-artist,nominee,Jon Secada,Jon Secada,UR,,,523,0.3333333333333333,UR nominee
+1992,Marc Cohn,,best-new-artist,winner,Marc Cohn,Marc Cohn,white,,,524,0.4,white winner
+1992,Boyz II Men,,best-new-artist,nominee,Boyz II Men,Boyz II Men,UR,,,525,0.4,UR nominee
+1992,C&C Music Factory,,best-new-artist,nominee,CC Music Factory,C&C Music Factory,UR,,,526,0.4,UR nominee
+1992,Color Me Badd,,best-new-artist,nominee,Color Me Badd,Color Me Badd,UR,shared,,527,0.4,UR nominee
+1992,Seal,,best-new-artist,nominee,Seal,Seal,UR,,,528,0.4,UR nominee
+1991,Mariah Carey,,best-new-artist,winner,Mariah Carey,Mariah Carey,UR,,,529,0.4,UR winner
+1991,Black Crowes,,best-new-artist,nominee,Black Crowes,Black Crowes,white,,,530,0.4,white nominee
+1991,Kentucky Headhunters,,best-new-artist,nominee,Kentucky Headhunters,Kentucky Headhunters,white,,,531,0.4,white nominee
+1991,Wilson Phillips,,best-new-artist,nominee,Wilson Phillips,Wilson Phillips,white,,,532,0.4,white nominee
+1991,Lisa Stansfield,,best-new-artist,nominee,Lisa Stansfield,Lisa Stansfield,white,,,533,0.4,white nominee
+1990,Milli Vanilli (award later revoked and vacated),,best-new-artist,winner,Milli Vanilli award later revoked and vacated,Milli Vanilli (award later revoked and vacated),UR,,,534,0.4,UR winner
+1990,Neneh Cherry,,best-new-artist,nominee,Neneh Cherry,Neneh Cherry,UR,,,535,0.4,UR nominee
+1990,Indigo Girls,,best-new-artist,nominee,Indigo Girls,Indigo Girls,white,,,536,0.4,white nominee
+1990,Soul II Soul,,best-new-artist,nominee,Soul II Soul,Soul II Soul,UR,,,537,0.4,UR nominee
+1990,Tone Loc,,best-new-artist,nominee,Tone Loc,Tone Loc,UR,,,538,0.4,UR nominee
+2023,Lizzo,About Damn Time,record-of-the-year,winner,Lizzo,Lizzo,UR,,,539,0.5666666666666667,UR winner
+2023,Abba,Don't Shut Me Down,record-of-the-year,nominee,Abba,Abba,white,,,540,0.5666666666666667,white nominee
+2023,Adele,Easy On Me,record-of-the-year,nominee,Adele,Adele,white,,,541,0.5666666666666667,white nominee
+2023,Beyonce,BREAK MY SOUL,record-of-the-year,nominee,Beyonce,Beyonce,UR,,,542,0.5666666666666667,UR nominee
+2023,Mary J. Blige,Good Morning Gorgeous,record-of-the-year,nominee,Mary J Blige,Mary J. Blige,UR,,,543,0.5666666666666667,UR nominee
+2023,Brandi Carlile Featuring Lucius,You And Me On The Rock,record-of-the-year,nominee,Brandi Carlile Featuring Lucius,Brandi Carlile Featuring Lucius,white,,,544,0.5666666666666667,white nominee
+2023,Doja Cat,Woman,record-of-the-year,nominee,Doja Cat,Doja Cat,UR,,,545,0.5666666666666667,UR nominee
+2023,Steve Lacy,Bad Habit,record-of-the-year,nominee,Steve Lacy,Steve Lacy,UR,,,546,0.5666666666666667,UR nominee
+2023,Harry Styles,As It Was,record-of-the-year,nominee,Harry Styles,Harry Styles,white,,,547,0.5666666666666667,white nominee
+2023,Kendrick Lamar,The Heart Part 5,record-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,548,0.5666666666666667,UR nominee
+2023,Harry Styles,Harry's House,album-of-the-year,winner,Harry Styles,Harry Styles,white,,,549,0.5666666666666667,white winner
+2023,Abba,Voyage,album-of-the-year,nominee,Abba,Abba,white,,,550,0.5666666666666667,white nominee
+2023,Adele,30,album-of-the-year,nominee,Adele,Adele,white,,,551,0.5666666666666667,white nominee
+2023,Bad Bunny,Un Verano Sin Ti,album-of-the-year,nominee,Bad Bunny,Bad Bunny,UR,,,552,0.5666666666666667,UR nominee
+2023,Beyonce,RENAISSANCE,album-of-the-year,nominee,Beyonce,Beyonce,UR,,,553,0.5666666666666667,UR nominee
+2023,Mary J. Blige,Good Morning Gorgeous,album-of-the-year,nominee,Mary J Blige,Mary J. Blige,UR,,,554,0.5666666666666667,UR nominee
+2023,Brandi Carlile,In These Silent Days,album-of-the-year,nominee,Brandi Carlile,Brandi Carlile,white,,,555,0.5666666666666667,white nominee
+2023,Coldplay,Music Of The Spheres,album-of-the-year,nominee,Coldplay,Coldplay,white,,,556,0.5666666666666667,white nominee
+2023,Kendrick Lamar,Mr. Morale & The Big Steppers,album-of-the-year,nominee,Kendrick Lamar,Kendrick Lamar,UR,,,557,0.5666666666666667,UR nominee
+2023,Lizzo,Special,album-of-the-year,nominee,Lizzo,Lizzo,UR,,,558,0.5666666666666667,UR nominee
+2023,Samara Joy,,best-new-artist,winner,Samara Joy,Samara Joy,UR,,,559,0.5666666666666667,UR winner
+2023,Anitta,,best-new-artist,nominee,Anitta,Anitta,UR,,,560,0.5666666666666667,UR nominee
+2023,Omar Apollo,,best-new-artist,nominee,Omar Apollo,Omar Apollo,UR,,,561,0.5666666666666667,UR nominee
+2023,DOMi & JD Beck,,best-new-artist,nominee,DOMi  JD Beck,DOMi & JD Beck,white,,,562,0.5666666666666667,white nominee
+2023,Muni Long,,best-new-artist,nominee,Muni Long,Muni Long,UR,,,563,0.5666666666666667,UR nominee
+2023,Latto,,best-new-artist,nominee,Latto,Latto,UR,,,564,0.5666666666666667,UR nominee
+2023,Måneskin,,best-new-artist,nominee,Måneskin,Måneskin,white,,,565,0.5666666666666667,white nominee
+2023,Tobe Nwigwe,,best-new-artist,nominee,Tobe Nwigwe,Tobe Nwigwe,UR,,,566,0.5666666666666667,UR nominee
+2023,Molly Tuttle,,best-new-artist,nominee,Molly Tuttle,Molly Tuttle,white,,,567,0.5666666666666667,white nominee
+2023,Wet Leg,,best-new-artist,nominee,Wet Leg,Wet Leg,white,,,568,0.5666666666666667,white nominee

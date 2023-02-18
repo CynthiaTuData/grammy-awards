@@ -1,0 +1,1032 @@
+year,musician,work,category,status,cleaned_musician
+2022,Jon Batiste,We Are,album-of-the-year,winner,Jon Batiste
+2022,Tony Bennett & Lady Gaga,Love for Sale,album-of-the-year,nominee,Tony Bennett  Lady Gaga
+2022,Justin Bieber,Justice,album-of-the-year,nominee,Justin Bieber
+2022,Doja Cat,Planet Her,album-of-the-year,nominee,Doja Cat
+2022,Billie Eilish,Happier Than Ever,album-of-the-year,nominee,Billie Eilish
+2022,H.E.R.,Back of My Mind,album-of-the-year,nominee,HER
+2022,Lil Nas X,Montero,album-of-the-year,nominee,Lil Nas X
+2022,Olivia Rodrigo,Sour,album-of-the-year,nominee,Olivia Rodrigo
+2022,Taylor Swift,Evermore,album-of-the-year,nominee,Taylor Swift
+2022,Kanye West,Donda,album-of-the-year,nominee,Kanye West
+2021,Taylor Swift,Folklore,album-of-the-year,winner,Taylor Swift
+2021,Jhene Aiko,Chilombo,album-of-the-year,nominee,Jhene Aiko
+2021,Black Pumas,Black Pumas (Deluxe Edition),album-of-the-year,nominee,Black Pumas
+2021,Coldplay,Everyday Life,album-of-the-year,nominee,Coldplay
+2021,Jacob Collier,Djesse Vol. 3,album-of-the-year,nominee,Jacob Collier
+2021,Haim,Women in Music Pt. III,album-of-the-year,nominee,Haim
+2021,Dua Lipa,Future Nostalgia,album-of-the-year,nominee,Dua Lipa
+2021,Post Malone,Hollywood’s Bleeding,album-of-the-year,nominee,Post Malone
+2020,"Where Do We Go?, Billie Eilish","When We All Fall Asleep, Where Do We Go?",album-of-the-year,winner,Where Do We Go Billie Eilish
+2020,Bon Iver,"i, i",album-of-the-year,nominee,Bon Iver
+2020,Lana Del Rey,Norman Fucking Rockwell,album-of-the-year,nominee,Lana Del Rey
+2020,H.E.R.,I Used to Know Her,album-of-the-year,nominee,HER
+2020,Ariana Grande,"Thank U, Next",album-of-the-year,nominee,Ariana Grande
+2020,Lil Nas X,7,album-of-the-year,nominee,Lil Nas X
+2020,Lizzo,Cuz I Love You (Deluxe),album-of-the-year,nominee,Lizzo
+2020,Vampire Weekend,Father of the Bride,album-of-the-year,nominee,Vampire Weekend
+2019,Kacey Musgraves,Golden Hour,album-of-the-year,winner,Kacey Musgraves
+2019,Cardi B,Invasion of Privacy,album-of-the-year,nominee,Cardi B
+2019,Brandi Carlile,"By the Way, I Forgive You",album-of-the-year,nominee,Brandi Carlile
+2019,Drake,Scorpion,album-of-the-year,nominee,Drake
+2019,H.E.R.,H.E.R.,album-of-the-year,nominee,HER
+2019,Kendrick Lamar & others,Black Panther: The Album,album-of-the-year,nominee,Kendrick Lamar  others
+2019,Post Malone,Beerbongs & Bentleys,album-of-the-year,nominee,Post Malone
+2019,Janelle Monae,Dirty Computer,album-of-the-year,nominee,Janelle Monae
+2018,Bruno Mars,24K Magic,album-of-the-year,winner,Bruno Mars
+2018,Childish Gambino,Awaken My Love,album-of-the-year,nominee,Childish Gambino
+2018,Jay-Z,4:44,album-of-the-year,nominee,JayZ
+2018,Kendrick Lamar,DAMN,album-of-the-year,nominee,Kendrick Lamar
+2018,Lorde,Melodrama,album-of-the-year,nominee,Lorde
+2017,Adele,25,album-of-the-year,winner,Adele
+2017,Beyonce,Lemonade,album-of-the-year,nominee,Beyonce
+2017,Justin Bieber,Purpose,album-of-the-year,nominee,Justin Bieber
+2017,Drake,Views,album-of-the-year,nominee,Drake
+2017,Sturgill Simpson,A Sailor’s Guide to Earth,album-of-the-year,nominee,Sturgill Simpson
+2016,Taylor Swift,1989,album-of-the-year,winner,Taylor Swift
+2016,Alabama Shakes,Sound & Color,album-of-the-year,nominee,Alabama Shakes
+2016,Kendrick Lamar,To Pimp a Butterfly,album-of-the-year,nominee,Kendrick Lamar
+2016,Chris Stapleton,Traveller,album-of-the-year,nominee,Chris Stapleton
+2016,the Weeknd,Beauty Behind the Madness,album-of-the-year,nominee,the Weeknd
+2015,Beck,Morning Phase,album-of-the-year,winner,Beck
+2015,Beyonce,Beyonce,album-of-the-year,nominee,Beyonce
+2015,Pharrell Williams,Girl,album-of-the-year,nominee,Pharrell Williams
+2015,Sam Smith,In the Lonely Hour,album-of-the-year,nominee,Sam Smith
+2015,Ed Sheeran,X,album-of-the-year,nominee,Ed Sheeran
+2014,Daft Punk,Random Access Memories,album-of-the-year,winner,Daft Punk
+2014,Sara Bareilles,The Blessed Unrest,album-of-the-year,nominee,Sara Bareilles
+2014,Kendrick Lamar,"Good Kid, m.a.a.d City",album-of-the-year,nominee,Kendrick Lamar
+2014,Macklemore & Ryan Lewis,The Heist,album-of-the-year,nominee,Macklemore  Ryan Lewis
+2014,Taylor Swift,Red,album-of-the-year,nominee,Taylor Swift
+2013,Mumford & Sons,Babel,album-of-the-year,winner,Mumford  Sons
+2013,Black Keys,El Camino,album-of-the-year,nominee,Black Keys
+2013,Frank Ocean,Channel Orange,album-of-the-year,nominee,Frank Ocean
+2013,fun.,Some Nights,album-of-the-year,nominee,fun
+2013,Jack White,Blunderbuss,album-of-the-year,nominee,Jack White
+2012,Adele,21,album-of-the-year,winner,Adele
+2012,Foo Fighters,Wasting Light,album-of-the-year,nominee,Foo Fighters
+2012,Lady Gaga,Born This Way,album-of-the-year,nominee,Lady Gaga
+2012,Bruno Mars,Doo Wops and Hooligans,album-of-the-year,nominee,Bruno Mars
+2012,Rihanna,Loud,album-of-the-year,nominee,Rihanna
+2011,Arcade Fire,The Suburbs,album-of-the-year,winner,Arcade Fire
+2011,Eminem,Recovery,album-of-the-year,nominee,Eminem
+2011,Lady Antebellum,Need You Now,album-of-the-year,nominee,Lady Antebellum
+2011,Lady Gaga,The Fame Monster,album-of-the-year,nominee,Lady Gaga
+2011,Katy Perry,Teenage Dream,album-of-the-year,nominee,Katy Perry
+2010,Taylor Swift,Fearless,album-of-the-year,winner,Taylor Swift
+2010,Beyonce,I Am…Sasha Fierce,album-of-the-year,nominee,Beyonce
+2010,Black Eyed Peas,The E.N.D.,album-of-the-year,nominee,Black Eyed Peas
+2010,Lady Gaga,The Fame,album-of-the-year,nominee,Lady Gaga
+2010,Dave Matthews Band,Big Whiskey and the GrooGrux King,album-of-the-year,nominee,Dave Matthews Band
+2009,Robert Plant & Alison Krauss,Raising Sand,album-of-the-year,winner,Robert Plant  Alison Krauss
+2009,Coldplay,Viva la Vida or Death and All His Friends,album-of-the-year,nominee,Coldplay
+2009,Ne-Yo,Year of the Gentleman,album-of-the-year,nominee,NeYo
+2009,Radiohead,In Rainbows,album-of-the-year,nominee,Radiohead
+2009,Lil Wayne,Tha Carter III,album-of-the-year,nominee,Lil Wayne
+2008,Herbie Hancock,River: The Joni Letters,album-of-the-year,winner,Herbie Hancock
+2008,Foo Fighters,"Echoes, Silence, Patience & Grace",album-of-the-year,nominee,Foo Fighters
+2008,Vince Gill,These Days,album-of-the-year,nominee,Vince Gill
+2008,Kanye West,Graduation,album-of-the-year,nominee,Kanye West
+2008,Amy Winehouse,Back to Black,album-of-the-year,nominee,Amy Winehouse
+2007,Dixie Chicks,Taking the Long Way,album-of-the-year,winner,Dixie Chicks
+2007,Gnarls Barkley,St. Elsewhere,album-of-the-year,nominee,Gnarls Barkley
+2007,John Mayer,Continuum,album-of-the-year,nominee,John Mayer
+2007,Red Hot Chili Peppers,Stadium Arcadium,album-of-the-year,nominee,Red Hot Chili Peppers
+2007,Justin Timberlake,FutureSex/LoveSounds,album-of-the-year,nominee,Justin Timberlake
+2006,U2,How to Dismantle an Atomic Bomb,album-of-the-year,winner,U2
+2006,Mariah Carey,The Emancipation of Mimi,album-of-the-year,nominee,Mariah Carey
+2006,Paul McCartney,Chaos and Creation in the Backyard,album-of-the-year,nominee,Paul McCartney
+2006,Gwen Stefani,Love.Angel.Music.Baby,album-of-the-year,nominee,Gwen Stefani
+2006,Kanye West,Late Registration,album-of-the-year,nominee,Kanye West
+2005,Ray Charles,Genius Loves Company,album-of-the-year,winner,Ray Charles
+2005,Green Day,American Idiot,album-of-the-year,nominee,Green Day
+2005,Alicia Keys,The Diary of Alicia Keys,album-of-the-year,nominee,Alicia Keys
+2005,Usher,Confessions,album-of-the-year,nominee,Usher
+2005,Kanye West,The College Dropout,album-of-the-year,nominee,Kanye West
+2004,Outkast,Speakerboxxx/The Love Below,album-of-the-year,winner,Outkast
+2004,Missy Elliott,Under Construction,album-of-the-year,nominee,Missy Elliott
+2004,Evanescence,Fallen,album-of-the-year,nominee,Evanescence
+2004,Justin Timberlake,Justified,album-of-the-year,nominee,Justin Timberlake
+2004,White Stripes,Elephant,album-of-the-year,nominee,White Stripes
+2003,Norah Jones,Come Away With Me,album-of-the-year,winner,Norah Jones
+2003,Dixie Chicks,Home,album-of-the-year,nominee,Dixie Chicks
+2003,Eminem,The Eminem Show,album-of-the-year,nominee,Eminem
+2003,Nelly,Nellyville,album-of-the-year,nominee,Nelly
+2003,Bruce Springsteen,The Rising,album-of-the-year,nominee,Bruce Springsteen
+2002,"Where Art Thou?, soundtrack","O Brother, Where Art Thou?",album-of-the-year,winner,Where Art Thou soundtrack
+2002,India.Arie,Acoustic Soul,album-of-the-year,nominee,IndiaArie
+2002,Bob Dylan,Love and Theft,album-of-the-year,nominee,Bob Dylan
+2002,Outkast,Stankonia,album-of-the-year,nominee,Outkast
+2002,U2,All That You Can’t Leave Behind,album-of-the-year,nominee,U2
+2001,Steely Dan,Two Against Nature,album-of-the-year,winner,Steely Dan
+2001,Beck,Midnite Vultures,album-of-the-year,nominee,Beck
+2001,Eminem,The Marshall Mathers LP,album-of-the-year,nominee,Eminem
+2001,Radiohead,Kid A,album-of-the-year,nominee,Radiohead
+2001,Paul Simon,You’re the One,album-of-the-year,nominee,Paul Simon
+2000,Santana,Supernatural,album-of-the-year,winner,Santana
+2000,Backstreet Boys,Millennium,album-of-the-year,nominee,Backstreet Boys
+2000,Dixie Chicks,Fly,album-of-the-year,nominee,Dixie Chicks
+2000,Diana Krall,When I Look in Your Eyes,album-of-the-year,nominee,Diana Krall
+2000,TLC,FanMail,album-of-the-year,nominee,TLC
+1999,Lauryn Hill,The Miseducation of Lauryn Hill,album-of-the-year,winner,Lauryn Hill
+1999,Madonna,Ray of Light,album-of-the-year,nominee,Madonna
+1999,Sheryl Crow,The Globe Sessions,album-of-the-year,nominee,Sheryl Crow
+1999,Garbage,Version 2.0,album-of-the-year,nominee,Garbage
+1999,Shania Twain,Come on Over,album-of-the-year,nominee,Shania Twain
+1998,Bob Dylan,Time Out of Mind,album-of-the-year,winner,Bob Dylan
+1998,Babyface,The Day,album-of-the-year,nominee,Babyface
+1998,Paula Cole,This Fire,album-of-the-year,nominee,Paula Cole
+1998,Paul McCartney,Flaming Pie,album-of-the-year,nominee,Paul McCartney
+1998,Radiohead,OK Computer,album-of-the-year,nominee,Radiohead
+1997,Celine Dion,Falling Into You,album-of-the-year,winner,Celine Dion
+1997,Beck,Odelay,album-of-the-year,nominee,Beck
+1997,Fugees,The Score,album-of-the-year,nominee,Fugees
+1997,Smashing Pumpkins,Mellon Collie and the Infinite Sadness,album-of-the-year,nominee,Smashing Pumpkins
+1997,soundtrack,Waiting to Exhale,album-of-the-year,nominee,soundtrack
+1996,Alanis Morissette,Jagged Little Pill,album-of-the-year,winner,Alanis Morissette
+1996,Mariah Carey,Daydream,album-of-the-year,nominee,Mariah Carey
+1996,Michael Jackson,HIStory: Past Present and Future Book 1,album-of-the-year,nominee,Michael Jackson
+1996,Joan Osborne,Relish,album-of-the-year,nominee,Joan Osborne
+1996,Pearl Jam,Vitalogy,album-of-the-year,nominee,Pearl Jam
+1995,Tony Bennett,MTV Unplugged,album-of-the-year,winner,Tony Bennett
+1995,Zubin Mehta,"The Three Tenors in Concert 1994, Jose Carreras, Placido Domingo, Luciano Pavarotti",album-of-the-year,nominee,Zubin Mehta
+1995,Eric Clapton,From the Cradle,album-of-the-year,nominee,Eric Clapton
+1995,Bonnie Raitt,Longing in Their Hearts,album-of-the-year,nominee,Bonnie Raitt
+1995,Seal,Seal,album-of-the-year,nominee,Seal
+1994,Whitney Houston,The Bodyguard soundtrack,album-of-the-year,winner,Whitney Houston
+1994,Donald Fagen,Kamakiriad,album-of-the-year,nominee,Donald Fagen
+1994,Billy Joel,River of Dreams,album-of-the-year,nominee,Billy Joel
+1994,R.E.M.,Automatic for the People,album-of-the-year,nominee,REM
+1994,Sting,Ten Summoner’s Tales,album-of-the-year,nominee,Sting
+1993,Eric Clapton,Unplugged,album-of-the-year,winner,Eric Clapton
+1993,k.d. lang,Ingenue,album-of-the-year,nominee,kd lang
+1993,Annie Lennox,Diva,album-of-the-year,nominee,Annie Lennox
+1993,U2,Achtung Baby,album-of-the-year,nominee,U2
+1993,soundtrack,Beauty and the Beast,album-of-the-year,nominee,soundtrack
+1992,Natalie Cole,Unforgettable…with Love,album-of-the-year,winner,Natalie Cole
+1992,Amy Grant,Heart in Motion,album-of-the-year,nominee,Amy Grant
+1992,Bonnie Raitt,Luck of the Draw,album-of-the-year,nominee,Bonnie Raitt
+1992,R.E.M.,Out of Time,album-of-the-year,nominee,REM
+1992,Paul Simon,The Rhythm of the Saints,album-of-the-year,nominee,Paul Simon
+1991,Quincy Jones,Back on the Block,album-of-the-year,winner,Quincy Jones
+1991,Mariah Carey,Mariah Carey,album-of-the-year,nominee,Mariah Carey
+1991,Phil Collins,…But Seriously,album-of-the-year,nominee,Phil Collins
+1991,MC Hammer,"Please, Hammer, Don’t Hurt ‘Em",album-of-the-year,nominee,MC Hammer
+1991,Wilson Phillips,Wilson Phillips,album-of-the-year,nominee,Wilson Phillips
+1990,Bonnie Raitt,Nick of Time,album-of-the-year,winner,Bonnie Raitt
+1990,Don Henley,The End of the Innocence,album-of-the-year,nominee,Don Henley
+1990,Fine Young Cannibals,The Raw and the Cooked,album-of-the-year,nominee,Fine Young Cannibals
+1990,Tom Petty,Full Moon Fever,album-of-the-year,nominee,Tom Petty
+1990,Traveling Wilburys,Traveling Wilburys Vol. 1,album-of-the-year,nominee,Traveling Wilburys
+1989,George Michael,Faith,album-of-the-year,winner,George Michael
+1989,Tracy Chapman,Tracy Chapman,album-of-the-year,nominee,Tracy Chapman
+1989,Bobby McFerrin,Simple Pleasures,album-of-the-year,nominee,Bobby McFerrin
+1989,Sting,…Nothing Like the Sun,album-of-the-year,nominee,Sting
+1989,Steve Winwood,Roll With It,album-of-the-year,nominee,Steve Winwood
+1988,U2,The Joshua Tree,album-of-the-year,winner,U2
+1988,Whitney Houston,Whitney,album-of-the-year,nominee,Whitney Houston
+1988,Michael Jackson,Bad,album-of-the-year,nominee,Michael Jackson
+1988,Linda Ronstadt & Emmylou Harris,"Trio, Dolly Parton",album-of-the-year,nominee,Linda Ronstadt  Emmylou Harris
+1988,Prince,Sign ‘o’ the Times,album-of-the-year,nominee,Prince
+1987,Paul Simon,Graceland,album-of-the-year,winner,Paul Simon
+1987,Peter Gabriel,So,album-of-the-year,nominee,Peter Gabriel
+1987,Janet Jackson,Control,album-of-the-year,nominee,Janet Jackson
+1987,Barbra Streisand,The Broadway Album,album-of-the-year,nominee,Barbra Streisand
+1987,Steve Winwood,Back in the High Life,album-of-the-year,nominee,Steve Winwood
+1986,Phil Collins,No Jacket Required,album-of-the-year,winner,Phil Collins
+1986,Dire Straits,Brothers in Arms,album-of-the-year,nominee,Dire Straits
+1986,Whitney Houston,Whitney Houston,album-of-the-year,nominee,Whitney Houston
+1986,Sting,The Dream of the Blue Turtles,album-of-the-year,nominee,Sting
+1986,USA for Africa (Quincy Jones),We are the World,album-of-the-year,nominee,USA for Africa Quincy Jones
+1985,Lionel Richie,Can’t Slow Down,album-of-the-year,winner,Lionel Richie
+1985,Cyndi Lauper,She’s So Unusual,album-of-the-year,nominee,Cyndi Lauper
+1985,Prince,Purple Rain,album-of-the-year,nominee,Prince
+1985,Bruce Springsteen,Born in the USA,album-of-the-year,nominee,Bruce Springsteen
+1985,Tina Turner,Private Dancer,album-of-the-year,nominee,Tina Turner
+1984,Michael Jackson,Thriller,album-of-the-year,winner,Michael Jackson
+1984,David Bowie,Let’s Dance,album-of-the-year,nominee,David Bowie
+1984,Billy Joel,An Innocent Man,album-of-the-year,nominee,Billy Joel
+1984,the Police,Synchronicity,album-of-the-year,nominee,the Police
+1984,soundtrack,Flashdance,album-of-the-year,nominee,soundtrack
+1983,Toto,Toto IV,album-of-the-year,winner,Toto
+1983,John Cougar,American Fool,album-of-the-year,nominee,John Cougar
+1983,Donald Fagen,The Nightfly,album-of-the-year,nominee,Donald Fagen
+1983,Billy Joel,The Nylon Curtain,album-of-the-year,nominee,Billy Joel
+1983,Paul McCartney,Tug of War,album-of-the-year,nominee,Paul McCartney
+1982,John Lennon & Yoko Ono,Double Fantasy,album-of-the-year,winner,John Lennon  Yoko Ono
+1982,Kim Carnes,Mistaken Identity,album-of-the-year,nominee,Kim Carnes
+1982,Al Jarreau,Breakin’ Away,album-of-the-year,nominee,Al Jarreau
+1982,Quincy Jones,The Dude,album-of-the-year,nominee,Quincy Jones
+1982,Steely Dan,Gaucho,album-of-the-year,nominee,Steely Dan
+1981,Christopher Cross,Christopher Cross,album-of-the-year,winner,Christopher Cross
+1981,Billy Joel,Glass Houses,album-of-the-year,nominee,Billy Joel
+1981,Pink Floyd,The Wall,album-of-the-year,nominee,Pink Floyd
+1981,Frank Sinatra,Trilogy: Past Present Future,album-of-the-year,nominee,Frank Sinatra
+1981,Barbra Streisand,Guilty,album-of-the-year,nominee,Barbra Streisand
+1980,Billy Joel,52nd Street,album-of-the-year,winner,Billy Joel
+1980,Doobie Brothers,Minute by Minute,album-of-the-year,nominee,Doobie Brothers
+1980,Kenny Rogers,The Gambler,album-of-the-year,nominee,Kenny Rogers
+1980,Donna Summer,Bad Girls,album-of-the-year,nominee,Donna Summer
+1980,Supertramp,Breakfast in America,album-of-the-year,nominee,Supertramp
+1979,Bee Gees,Saturday Night Fever,album-of-the-year,winner,Bee Gees
+1979,Barry Manilow,Even Now,album-of-the-year,nominee,Barry Manilow
+1979,soundtrack,Grease,album-of-the-year,nominee,soundtrack
+1979,Jackson Browne,Running on Empty,album-of-the-year,nominee,Jackson Browne
+1979,Rolling Stones,Some Girls,album-of-the-year,nominee,Rolling Stones
+1978,Fleetwood Mac,Rumours,album-of-the-year,winner,Fleetwood Mac
+1978,Steely Dan,Aja,album-of-the-year,nominee,Steely Dan
+1978,Eagles,Hotel California,album-of-the-year,nominee,Eagles
+1978,James Taylor,JT,album-of-the-year,nominee,James Taylor
+1978,John Williams,Star Wars soundtrack,album-of-the-year,nominee,John Williams
+1977,Stevie Wonder,Songs in the Key of Life,album-of-the-year,winner,Stevie Wonder
+1977,George Benson,Breezin’,album-of-the-year,nominee,George Benson
+1977,Chicago,Chicago X,album-of-the-year,nominee,Chicago
+1977,Peter Frampton,Frampton Comes Alive!,album-of-the-year,nominee,Peter Frampton
+1977,Boz Scaggs,Silk Degrees,album-of-the-year,nominee,Boz Scaggs
+1976,Paul Simon,Still Crazy After All These Years,album-of-the-year,winner,Paul Simon
+1976,Janis Ian,Between the Lines,album-of-the-year,nominee,Janis Ian
+1976,Elton John,Captain Fantastic and the Brown Dirt Cowboy,album-of-the-year,nominee,Elton John
+1976,Linda Ronstadt,Heart Like a Wheel,album-of-the-year,nominee,Linda Ronstadt
+1976,the Eagles,One of These Nights,album-of-the-year,nominee,the Eagles
+1975,Stevie Wonder,Fulfillingness’ First Finale,album-of-the-year,winner,Stevie Wonder
+1975,John Denver,Back Home Again,album-of-the-year,nominee,John Denver
+1975,Paul McCartney & Wings,Band on the Run,album-of-the-year,nominee,Paul McCartney  Wings
+1975,Elton John,Caribou,album-of-the-year,nominee,Elton John
+1975,Joni Mitchell,Court and Spark,album-of-the-year,nominee,Joni Mitchell
+1974,Stevie Wonder,Innervisions,album-of-the-year,winner,Stevie Wonder
+1974,Charlie Rich,Behind Closed Doors,album-of-the-year,nominee,Charlie Rich
+1974,Bette Midler,The Divine Miss M,album-of-the-year,nominee,Bette Midler
+1974,Roberta Flack,Killing Me Softly,album-of-the-year,nominee,Roberta Flack
+1974,Paul Simon,There Goes Rhymin’ Simon,album-of-the-year,nominee,Paul Simon
+1973,"Billy Preston, Bob Dylan, Eric Clapton, George Harrison, Klaus Voormann, Leon Russell, Ravi Shankar & Ringo Starr","The Concert for Bangladesh, Billy Preston, Bob Dylan, Eric Clapton, George Harrison, Klaus Voormann, Leon Russell",album-of-the-year,winner,Billy Preston Bob Dylan Eric Clapton George Harrison Klaus Voormann Leon Russell Ravi Shankar  Ringo Starr
+1973,Don McLean,American Pie,album-of-the-year,nominee,Don McLean
+1973,cast recording,Jesus Christ Superstar,album-of-the-year,nominee,cast recording
+1973,Neil Diamond,Moods,album-of-the-year,nominee,Neil Diamond
+1973,Nilsson,Nilsson Schmilsson,album-of-the-year,nominee,Nilsson
+1972,Carole King,Tapestry,album-of-the-year,winner,Carole King
+1972,George Harrison,All Things Must Pass,album-of-the-year,nominee,George Harrison
+1972,Carpenters,The Carpenters,album-of-the-year,nominee,Carpenters
+1972,London production,Jesus Christ Superstar,album-of-the-year,nominee,London production
+1972,Isaac Hayes,Shaft,album-of-the-year,nominee,Isaac Hayes
+1971,Simon & Garfunkel,Bridge Over Troubled Water,album-of-the-year,winner,Simon  Garfunkel
+1971,Chicago,Chicago,album-of-the-year,nominee,Chicago
+1971,Carpenters,Close to You,album-of-the-year,nominee,Carpenters
+1971,Nash & Young,"Déjà vu, Crosby, Stills",album-of-the-year,nominee,Nash  Young
+1971,Elton John,Elton John,album-of-the-year,nominee,Elton John
+1971,James Taylor,Sweet Baby James,album-of-the-year,nominee,James Taylor
+1970,"Sweat & Tears, Blood, Sweat & Tears","Blood, Sweat & Tears, Blood",album-of-the-year,winner,Sweat  Tears Blood Sweat  Tears
+1970,Beatles,Abbey Road,album-of-the-year,nominee,Beatles
+1970,the 5th Dimension,The Age of Aquarius,album-of-the-year,nominee,the 5th Dimension
+1970,Stills & Nash,"Crosby, Stills & Nash, Crosby",album-of-the-year,nominee,Stills  Nash
+1970,Johnny Cash,At San Quentin,album-of-the-year,nominee,Johnny Cash
+1969,Glen Campbell,By the Time I Get to Phoenix,album-of-the-year,winner,Glen Campbell
+1969,Simon & Garfunkel,Bookends,album-of-the-year,nominee,Simon  Garfunkel
+1969,Jose Feliciano,Feliciano!,album-of-the-year,nominee,Jose Feliciano
+1969,Beatles,Magical Mystery Tour,album-of-the-year,nominee,Beatles
+1969,Richard Harris,A Tramp Shining,album-of-the-year,nominee,Richard Harris
+1968,Beatles,Sgt. Pepper’s Lonely Hearts Club Band,album-of-the-year,winner,Beatles
+1968,Frank Sinatra & Antonio Carlos Jobim,Francis Albert Sinatra & Antonio Carlos Jobim,album-of-the-year,nominee,Frank Sinatra  Antonio Carlos Jobim
+1968,Vicki Carr,It Must Be Him,album-of-the-year,nominee,Vicki Carr
+1968,Ed Ames,My Cup Runneth Over,album-of-the-year,nominee,Ed Ames
+1968,Bobbie Gentry,Ode to Billie Joe,album-of-the-year,nominee,Bobbie Gentry
+1967,Frank Sinatra,A Man and His Music,album-of-the-year,winner,Frank Sinatra
+1967,Barbra Streisand,Color Me Barbra,album-of-the-year,nominee,Barbra Streisand
+1967,Maurice Jane,Dr. Zhivago soundtrack,album-of-the-year,nominee,Maurice Jane
+1967,Beatles,Revolver,album-of-the-year,nominee,Beatles
+1967,Herb Alpert and the Tijuana Brass,What Now My Love,album-of-the-year,nominee,Herb Alpert and the Tijuana Brass
+1966,Frank Sinatra,September of My Years,album-of-the-year,winner,Frank Sinatra
+1966,Beatles,Help!,album-of-the-year,nominee,Beatles
+1966,Barbra Streisand,My Name is Barbra,album-of-the-year,nominee,Barbra Streisand
+1966,Eddy Arnold,My World,album-of-the-year,nominee,Eddy Arnold
+1966,soundtrack,The Sound of Music,album-of-the-year,nominee,soundtrack
+1965,Stan Getz & Joao Gilberto,Getz/Gilberto,album-of-the-year,winner,Stan Getz  Joao Gilberto
+1965,Al Hirt,Cotton Candy,album-of-the-year,nominee,Al Hirt
+1965,Broadway cast recording,Funny Girl,album-of-the-year,nominee,Broadway cast recording
+1965,Barbra Streisand,People,album-of-the-year,nominee,Barbra Streisand
+1965,Henry Mancini,The Pink Panther,album-of-the-year,nominee,Henry Mancini
+1964,Barbra Streisand,The Barbra Streisand Album,album-of-the-year,winner,Barbra Streisand
+1964,Swingle Sisters,Bach’s Greatest Hits,album-of-the-year,nominee,Swingle Sisters
+1964,Andy Williams,Days of Wine and Roses and Other TV Requests,album-of-the-year,nominee,Andy Williams
+1964,Al Hirt,Honey in the Horn,album-of-the-year,nominee,Al Hirt
+1964,the Singing Nun,The Singing Nun,album-of-the-year,nominee,the Singing Nun
+1963,Vaughn Meader,The First Family,album-of-the-year,winner,Vaughn Meader
+1963,Tony Bennett,I Left My Heart in San Francisco,album-of-the-year,nominee,Tony Bennett
+1963,Stan Getz & Charlie Byrd,Jazz Samba,album-of-the-year,nominee,Stan Getz  Charlie Byrd
+1963,Ray Charles,Modern Sounds in Country and Western Music,album-of-the-year,nominee,Ray Charles
+1963,Allan Sherman,"My Son, the Folk Singer",album-of-the-year,nominee,Allan Sherman
+1962,Judy Garland,Judy at Carnegie Hall,album-of-the-year,winner,Judy Garland
+1962,Henry Mancini,Breakfast at Tiffany’s soundtrack,album-of-the-year,nominee,Henry Mancini
+1962,Ray Charles,Genius + Soul = Jazz,album-of-the-year,nominee,Ray Charles
+1962,Si Zentner & the Johnny Mann Singers,Great Band with Great Voices,album-of-the-year,nominee,Si Zentner  the Johnny Mann Singers
+1962,Nat King Cole,The Nat King Cole Story,album-of-the-year,nominee,Nat King Cole
+1962,soundtrack,West Side Story,album-of-the-year,nominee,soundtrack
+1961,Bob Newhart,The Button-Down Mind of Bob Newhart,album-of-the-year,winner,Bob Newhart
+1961,Harry Belafonte,Belafonte Returns to Carnegie Hall,album-of-the-year,nominee,Harry Belafonte
+1961,Sviatoslav Richter,Brahms: Concert No. 2 in B-Flat,album-of-the-year,nominee,Sviatoslav Richter
+1961,Frank Sinatra,Nice ‘n’ Easy,album-of-the-year,nominee,Frank Sinatra
+1961,Erich Leinsdorf,Puccini: Turandot,album-of-the-year,nominee,Erich Leinsdorf
+1961,Nat King Cole,Wild is Love,album-of-the-year,nominee,Nat King Cole
+1960,Frank Sinatra,Come Dance With Me!,album-of-the-year,winner,Frank Sinatra
+1960,Harry Belafonte,Belafonte at Carnegie Hall,album-of-the-year,nominee,Harry Belafonte
+1960,Henry Mancini,More Music from Peter Gunn,album-of-the-year,nominee,Henry Mancini
+1960,Van Cliburn,Rachmaninoff Piano Concerto No. 3,album-of-the-year,nominee,Van Cliburn
+1960,Robert Russell Bennett,"Victory at Sea, Vol. 1",album-of-the-year,nominee,Robert Russell Bennett
+1959,Henry Mancini,The Music from Peter Gunn,album-of-the-year,winner,Henry Mancini
+1959,Frank Sinatra,Come Fly With Me,album-of-the-year,nominee,Frank Sinatra
+1959,Ella Fitzgerald,Ella Fitzgerald Sings the Irving Berlin Songbook,album-of-the-year,nominee,Ella Fitzgerald
+1959,Frank Sinatra,Frank Sinatra Sings for Only the Lonely,album-of-the-year,nominee,Frank Sinatra
+1959,Van Cliburn,"Tchaikovsky: Concerto No. 1 in B Flat Minor, Op. 23",album-of-the-year,nominee,Van Cliburn
+2022,Silk Sonic,Leave the Door Open,record-of-the-year,winner,Silk Sonic
+2022,Abba,I Still Have Faith in You,record-of-the-year,nominee,Abba
+2022,Jon Batiste,Freedom,record-of-the-year,nominee,Jon Batiste
+2022,Tony Bennett & Lady Gaga,I Get a Kick Out of You,record-of-the-year,nominee,Tony Bennett  Lady Gaga
+2022,Justin Bieber featuring Daniel Caesar & Giveon,Peaches,record-of-the-year,nominee,Justin Bieber featuring Daniel Caesar  Giveon
+2022,Brandi Carlile,Right on Time,record-of-the-year,nominee,Brandi Carlile
+2022,Doja Cat featuring SZA,Kiss Me More,record-of-the-year,nominee,Doja Cat featuring SZA
+2022,Billie Eilish,Happier Than Ever,record-of-the-year,nominee,Billie Eilish
+2022,Lil Nas X,Montero (Call Me By Your Name),record-of-the-year,nominee,Lil Nas X
+2022,Olivia Rodrigo,Drivers License,record-of-the-year,nominee,Olivia Rodrigo
+2021,Billie Eilish,Everything I Wanted,record-of-the-year,winner,Billie Eilish
+2021,Beyonce,Black Parade,record-of-the-year,nominee,Beyonce
+2021,Black Pumas,Colors,record-of-the-year,nominee,Black Pumas
+2021,DaBaby featuring Roddy Ricch,Rockstar,record-of-the-year,nominee,DaBaby featuring Roddy Ricch
+2021,Doja Cat,Say So,record-of-the-year,nominee,Doja Cat
+2021,Dua Lipa,Don’t Start Now,record-of-the-year,nominee,Dua Lipa
+2021,Post Malone,Circles,record-of-the-year,nominee,Post Malone
+2021,Megan Thee Stallion featuring Beyonce,Savage,record-of-the-year,nominee,Megan Thee Stallion featuring Beyonce
+2020,Billie Eilish,Bad Guy,record-of-the-year,winner,Billie Eilish
+2020,Bon Iver,Hey Ma,record-of-the-year,nominee,Bon Iver
+2020,Ariana Grande,7 Rings,record-of-the-year,nominee,Ariana Grande
+2020,H.E.R.,Hard Place,record-of-the-year,nominee,HER
+2020,Khalid,Talk,record-of-the-year,nominee,Khalid
+2020,Lil Nas X featuring Billy Ray Cyrus,Old Town Road,record-of-the-year,nominee,Lil Nas X featuring Billy Ray Cyrus
+2020,Lizzo,Truth Hurts,record-of-the-year,nominee,Lizzo
+2020,Post Malone & Swae Lee,Sunflower,record-of-the-year,nominee,Post Malone  Swae Lee
+2019,Childish Gambino,This is America,record-of-the-year,winner,Childish Gambino
+2019,Bad Bunny & J Balvin,"I Like It, Cardi B",record-of-the-year,nominee,Bad Bunny  J Balvin
+2019,Brandi Carlile,The Joke,record-of-the-year,nominee,Brandi Carlile
+2019,Drake,God’s Plan,record-of-the-year,nominee,Drake
+2019,Lady Gaga & Bradley Cooper,Shallow,record-of-the-year,nominee,Lady Gaga  Bradley Cooper
+2019,Kendrick Lamar & SZA,All the Stars,record-of-the-year,nominee,Kendrick Lamar  SZA
+2019,Post Malone featuring 21 Savage,Rockstar,record-of-the-year,nominee,Post Malone featuring 21 Savage
+2019,Maren Morris & Grey,"The Middle, Zedd",record-of-the-year,nominee,Maren Morris  Grey
+2018,Bruno Mars,24K Magic,record-of-the-year,winner,Bruno Mars
+2018,Luis Fonsi & Daddy Yankee featuring Justin Bieber,Despacito,record-of-the-year,nominee,Luis Fonsi  Daddy Yankee featuring Justin Bieber
+2018,Childish Gambino,Redbone,record-of-the-year,nominee,Childish Gambino
+2018,Jay-Z,The Story of OJ,record-of-the-year,nominee,JayZ
+2018,Kendrick Lamar,Humble,record-of-the-year,nominee,Kendrick Lamar
+2017,Adele,Hello,record-of-the-year,winner,Adele
+2017,Beyonce,Formation,record-of-the-year,nominee,Beyonce
+2017,Lukas Graham,7 Years,record-of-the-year,nominee,Lukas Graham
+2017,Rihanna featuring Drake,Work,record-of-the-year,nominee,Rihanna featuring Drake
+2017,Twenty One Pilots,Stressed Out,record-of-the-year,nominee,Twenty One Pilots
+2016,Mark Ronson featuring Bruno Mars,Uptown Funk,record-of-the-year,winner,Mark Ronson featuring Bruno Mars
+2016,D’Angelo,Really Love,record-of-the-year,nominee,DAngelo
+2016,Ed Sheeran,Thinking Out Loud,record-of-the-year,nominee,Ed Sheeran
+2016,Taylor Swift,Blank Space,record-of-the-year,nominee,Taylor Swift
+2016,the Weeknd,Can’t Feel My Face,record-of-the-year,nominee,the Weeknd
+2015,Sam Smith,Stay With Me,record-of-the-year,winner,Sam Smith
+2015,Iggy Azalea featuring Charli XCX,Fancy,record-of-the-year,nominee,Iggy Azalea featuring Charli XCX
+2015,Meghan Trainor,All About That Bass,record-of-the-year,nominee,Meghan Trainor
+2015,Sia,Chandelier,record-of-the-year,nominee,Sia
+2015,Taylor Swift,Shake it Off,record-of-the-year,nominee,Taylor Swift
+2014,Daft Punk featuring Pharrell Williams & Nile Rodgers,Get Lucky,record-of-the-year,winner,Daft Punk featuring Pharrell Williams  Nile Rodgers
+2014,Imagine Dragons,Radioactive,record-of-the-year,nominee,Imagine Dragons
+2014,Lorde,Royals,record-of-the-year,nominee,Lorde
+2014,Bruno Mars,Locked Out of Heaven,record-of-the-year,nominee,Bruno Mars
+2014,Robin Thicke featuring TI & Pharrell Williams,Blurred Lines,record-of-the-year,nominee,Robin Thicke featuring TI  Pharrell Williams
+2013,Gotye featuring Kimbra,Somebody That I Used to Know,record-of-the-year,winner,Gotye featuring Kimbra
+2013,Black Keys,Lonely Boy,record-of-the-year,nominee,Black Keys
+2013,Kelly Clarkson,Stronger (What Doesn’t Kill You),record-of-the-year,nominee,Kelly Clarkson
+2013,fun. featuring Janelle Monae,We Are Young,record-of-the-year,nominee,fun featuring Janelle Monae
+2013,Frank Ocean,Thinkin Bout You,record-of-the-year,nominee,Frank Ocean
+2013,Taylor Swift,We Are Never Ever Getting Back Together,record-of-the-year,nominee,Taylor Swift
+2012,Adele,Rolling in the Deep,record-of-the-year,winner,Adele
+2012,Bon Iver,Holocene,record-of-the-year,nominee,Bon Iver
+2012,Bruno Mars,Grenade,record-of-the-year,nominee,Bruno Mars
+2012,Mumford & Sons,The Cave,record-of-the-year,nominee,Mumford  Sons
+2012,Katy Perry,Firework,record-of-the-year,nominee,Katy Perry
+2011,Lady Antebellum,Need You Now,record-of-the-year,winner,Lady Antebellum
+2011,B.o.B featuring Bruno Mars,Nothin’ on You,record-of-the-year,nominee,BoB featuring Bruno Mars
+2011,Eminem featuring Rihanna,Love the Way You Lie,record-of-the-year,nominee,Eminem featuring Rihanna
+2011,Cee Lo Green,Fuck You,record-of-the-year,nominee,Cee Lo Green
+2011,Jay-Z featuring Alicia Keys,Empire State of Mind,record-of-the-year,nominee,JayZ featuring Alicia Keys
+2010,Kings of Leon,Use Somebody,record-of-the-year,winner,Kings of Leon
+2010,Beyonce,Halo,record-of-the-year,nominee,Beyonce
+2010,Black Eyed Peas,I Gotta Feeling,record-of-the-year,nominee,Black Eyed Peas
+2010,Lady Gaga,Poker Face,record-of-the-year,nominee,Lady Gaga
+2010,Taylor Swift,You Belong With Me,record-of-the-year,nominee,Taylor Swift
+2009,Alison Krauss & Robert Plant,Please Read the Letter,record-of-the-year,winner,Alison Krauss  Robert Plant
+2009,Adele,Chasing Pavements,record-of-the-year,nominee,Adele
+2009,Coldplay,Viva La Vida,record-of-the-year,nominee,Coldplay
+2009,Leona Lewis,Bleeding Love,record-of-the-year,nominee,Leona Lewis
+2009,M.I.A.,Paper Planes,record-of-the-year,nominee,MIA
+2008,Amy Winehouse,Rehab,record-of-the-year,winner,Amy Winehouse
+2008,Beyonce,Irreplaceable,record-of-the-year,nominee,Beyonce
+2008,Foo Fighters,The Pretender,record-of-the-year,nominee,Foo Fighters
+2008,Rihanna featuring Jay-Z,Umbrella,record-of-the-year,nominee,Rihanna featuring JayZ
+2008,Justin Timberlake,What Goes Around…Comes Around,record-of-the-year,nominee,Justin Timberlake
+2007,Dixie Chicks,Not Ready to Make Nice,record-of-the-year,winner,Dixie Chicks
+2007,Mary J. Blige,Be Without You,record-of-the-year,nominee,Mary J Blige
+2007,James Blunt,You’re Beautiful,record-of-the-year,nominee,James Blunt
+2007,Gnarls Barkley,Crazy,record-of-the-year,nominee,Gnarls Barkley
+2007,Corinne Bailey Rae,Put Your Records On,record-of-the-year,nominee,Corinne Bailey Rae
+2006,Green Day,Boulevard of Broken Dreams,record-of-the-year,winner,Green Day
+2006,Mariah Carey,We Belong Together,record-of-the-year,nominee,Mariah Carey
+2006,Gorillaz,Feel Good Inc.,record-of-the-year,nominee,Gorillaz
+2006,Gwen Stefani,Hollaback Girl,record-of-the-year,nominee,Gwen Stefani
+2006,Kanye West,Gold Digger,record-of-the-year,nominee,Kanye West
+2005,Ray Charles and Norah Jones,Here We Go Again,record-of-the-year,winner,Ray Charles and Norah Jones
+2005,Black Eyed Peas,Let’s Get It Started,record-of-the-year,nominee,Black Eyed Peas
+2005,Green Day,American Idiot,record-of-the-year,nominee,Green Day
+2005,Los Lonely Boys,Heaven,record-of-the-year,nominee,Los Lonely Boys
+2005,Usher featuring Lil Jon & Ludacris,Yeah!,record-of-the-year,nominee,Usher featuring Lil Jon  Ludacris
+2004,Coldplay,Clocks,record-of-the-year,winner,Coldplay
+2004,Beyonce & Jay-Z,Crazy in Love,record-of-the-year,nominee,Beyonce  JayZ
+2004,Black Eyed Peas & Justin Timberlake,Where is the Love,record-of-the-year,nominee,Black Eyed Peas  Justin Timberlake
+2004,Eminem,Lose Yourself,record-of-the-year,nominee,Eminem
+2004,Outkast,Hey Ya!,record-of-the-year,nominee,Outkast
+2003,Norah Jones,Don’t Know Why,record-of-the-year,winner,Norah Jones
+2003,Vanessa Carlton,A Thousand Miles,record-of-the-year,nominee,Vanessa Carlton
+2003,Eminem,Without Me,record-of-the-year,nominee,Eminem
+2003,Nelly & Kelly Rowland,Dilemma,record-of-the-year,nominee,Nelly  Kelly Rowland
+2003,Nickelback,How You Remind Me,record-of-the-year,nominee,Nickelback
+2002,U2,Walk On,record-of-the-year,winner,U2
+2002,India.Arie,Video,record-of-the-year,nominee,IndiaArie
+2002,Alicia Keys,Fallin’,record-of-the-year,nominee,Alicia Keys
+2002,Outkast,Ms. Jackson,record-of-the-year,nominee,Outkast
+2002,Train,Drops of Jupiter (Tell Me),record-of-the-year,nominee,Train
+2001,U2,Beautiful Day,record-of-the-year,winner,U2
+2001,Destiny’s Child,Say My Name,record-of-the-year,nominee,Destinys Child
+2001,Macy Gray,I Try,record-of-the-year,nominee,Macy Gray
+2001,Madonna,Music,record-of-the-year,nominee,Madonna
+2001,N Sync,Bye Bye Bye,record-of-the-year,nominee,N Sync
+2000,Santana featuring Rob Thomas,Smooth,record-of-the-year,winner,Santana featuring Rob Thomas
+2000,Backstreet Boys,I Want It That Way,record-of-the-year,nominee,Backstreet Boys
+2000,Cher,Believe,record-of-the-year,nominee,Cher
+2000,Ricky Martin,Livin’ La Liva Loca,record-of-the-year,nominee,Ricky Martin
+2000,TLC,No Scrubs,record-of-the-year,nominee,TLC
+1999,Celine Dion,My Heart Will Go On,record-of-the-year,winner,Celine Dion
+1999,Brandy & Monica,The Boy Is Mine,record-of-the-year,nominee,Brandy  Monica
+1999,Goo Goo Dolls,Iris,record-of-the-year,nominee,Goo Goo Dolls
+1999,Madonna,Ray of Light,record-of-the-year,nominee,Madonna
+1999,Shania Twain,You’re Still the One,record-of-the-year,nominee,Shania Twain
+1998,Shawn Colvin,Sunny Came Home,record-of-the-year,winner,Shawn Colvin
+1998,Paula Cole,Where Have All the Cowboys Gone?,record-of-the-year,nominee,Paula Cole
+1998,Sheryl Crow,Everyday is a Winding Road,record-of-the-year,nominee,Sheryl Crow
+1998,Hanson,MMMBop,record-of-the-year,nominee,Hanson
+1998,R. Kelly,I Believe I Can Fly,record-of-the-year,nominee,R Kelly
+1997,Eric Clapton,Change the World,record-of-the-year,winner,Eric Clapton
+1997,Tracy Chapman,Give Me One Reason,record-of-the-year,nominee,Tracy Chapman
+1997,Celine Dion,Because You Loved Me,record-of-the-year,nominee,Celine Dion
+1997,Alanis Morissette,Ironic,record-of-the-year,nominee,Alanis Morissette
+1997,Smashing Pumpkins,1979,record-of-the-year,nominee,Smashing Pumpkins
+1996,Seal,Crazy,record-of-the-year,winner,Seal
+1996,Mariah Carey & Boyz II Men,One Sweet Day,record-of-the-year,nominee,Mariah Carey  Boyz II Men
+1996,Coolio featuring L.V.,Gangsta’s Paradise,record-of-the-year,nominee,Coolio featuring LV
+1996,Joan Osborne,One of Us,record-of-the-year,nominee,Joan Osborne
+1996,TLC,Waterfalls,record-of-the-year,nominee,TLC
+1995,Sheryl Crow,All I Wanna Do,record-of-the-year,winner,Sheryl Crow
+1995,Boyz II Men,I’ll Make Love to You,record-of-the-year,nominee,Boyz II Men
+1995,Mary Chapin Carpenter,He Thinks He’ll Keep Her,record-of-the-year,nominee,Mary Chapin Carpenter
+1995,Bonnie Raitt,Love Sneakin’ Up On You,record-of-the-year,nominee,Bonnie Raitt
+1995,Bruce Springsteen,Streets of Philadelphia,record-of-the-year,nominee,Bruce Springsteen
+1994,Whitney Houston,I Will Always Love You,record-of-the-year,winner,Whitney Houston
+1994,Peabo Bryson & Regina Belle,A Whole New World,record-of-the-year,nominee,Peabo Bryson  Regina Belle
+1994,Billy Joel,The River of Dreams,record-of-the-year,nominee,Billy Joel
+1994,Sting,If I Ever Lose My Faith in You,record-of-the-year,nominee,Sting
+1994,Neil Young,Harvest Moon,record-of-the-year,nominee,Neil Young
+1993,Eric Clapton,Tears in Heaven,record-of-the-year,winner,Eric Clapton
+1993,Billy Ray Cyrus,Achy Breaky Heart,record-of-the-year,nominee,Billy Ray Cyrus
+1993,Celine Dion & Peabo Bryson,Beauty and the Beast,record-of-the-year,nominee,Celine Dion  Peabo Bryson
+1993,k.d. lang,Constant Craving,record-of-the-year,nominee,kd lang
+1993,Vanessa Williams,Save the Best for Last,record-of-the-year,nominee,Vanessa Williams
+1992,Natalie Cole with Nat King Cole,Unforgettable,record-of-the-year,winner,Natalie Cole with Nat King Cole
+1992,Bryan Adams,(Everything I Do) I Do it for You,record-of-the-year,nominee,Bryan Adams
+1992,Amy Grant,Baby Baby,record-of-the-year,nominee,Amy Grant
+1992,Bonnie Raitt,Something to Talk About,record-of-the-year,nominee,Bonnie Raitt
+1992,R.E.M.,Losing My Religion,record-of-the-year,nominee,REM
+1991,Phil Collins,Another Day in Paradise,record-of-the-year,winner,Phil Collins
+1991,Mariah Carey,Vision of Love,record-of-the-year,nominee,Mariah Carey
+1991,MC Hammer,U Can’t Touch This,record-of-the-year,nominee,MC Hammer
+1991,Bette Midler,From a Distance,record-of-the-year,nominee,Bette Midler
+1991,Sinead O’Connor,Nothing Compares 2 U,record-of-the-year,nominee,Sinead OConnor
+1990,Bette Midler,Wind Beneath My Wings,record-of-the-year,winner,Bette Midler
+1990,Don Henley,The End of the Innocence,record-of-the-year,nominee,Don Henley
+1990,Fine Young Cannibals,She Drives Me Crazy,record-of-the-year,nominee,Fine Young Cannibals
+1990,Billy Joel,We Didn’t Start the Fire,record-of-the-year,nominee,Billy Joel
+1990,Mike & the Mechanics,The Living Years,record-of-the-year,nominee,Mike  the Mechanics
+1989,Bobby McFerrin,Don’t Worry Be Happy,record-of-the-year,winner,Bobby McFerrin
+1989,Anita Baker,Giving You the Best That I Got,record-of-the-year,nominee,Anita Baker
+1989,Tracy Chapman,Fast Car,record-of-the-year,nominee,Tracy Chapman
+1989,Michael Jackson,Man in the Mirror,record-of-the-year,nominee,Michael Jackson
+1989,Steve Winwood,Roll With It,record-of-the-year,nominee,Steve Winwood
+1988,Paul Simon,Graceland,record-of-the-year,winner,Paul Simon
+1988,Los Lobos,La Bamba,record-of-the-year,nominee,Los Lobos
+1988,U2,I Still Haven’t Found What I’m Looking For,record-of-the-year,nominee,U2
+1988,Suzanne Vega,Luka,record-of-the-year,nominee,Suzanne Vega
+1988,Steve Winwood,Back in the High Life Again,record-of-the-year,nominee,Steve Winwood
+1987,Steve Winwood,Higher Love,record-of-the-year,winner,Steve Winwood
+1987,Peter Gabriel,Sledgehammer,record-of-the-year,nominee,Peter Gabriel
+1987,Whitney Houston,Greatest Love of All,record-of-the-year,nominee,Whitney Houston
+1987,Robert Palmer,Addicted to Love,record-of-the-year,nominee,Robert Palmer
+1987,Dionne Warwick & Friends,That’s What Friends Are For,record-of-the-year,nominee,Dionne Warwick  Friends
+1986,USA for Africa,We Are the World,record-of-the-year,winner,USA for Africa
+1986,Dire Straits,Money for Nothing,record-of-the-year,nominee,Dire Straits
+1986,Don Henley,The Boys of Summer,record-of-the-year,nominee,Don Henley
+1986,Huey Lewis and the News,The Power of Love,record-of-the-year,nominee,Huey Lewis and the News
+1986,Bruce Springsteen,Born in the USA,record-of-the-year,nominee,Bruce Springsteen
+1985,Tina Turner,What’s Love Got to Do With It,record-of-the-year,winner,Tina Turner
+1985,Chicago,Hard Habit to Break,record-of-the-year,nominee,Chicago
+1985,Cyndi Lauper,Girls Just Want to Have Fun,record-of-the-year,nominee,Cyndi Lauper
+1985,Huey Lewis and the News,The Heart of Rock & Roll,record-of-the-year,nominee,Huey Lewis and the News
+1985,Bruce Spingsteen,Dancing in the Dark,record-of-the-year,nominee,Bruce Spingsteen
+1984,Michael Jackson,Beat It,record-of-the-year,winner,Michael Jackson
+1984,Irene Cara,Flashdance…What a Feeling,record-of-the-year,nominee,Irene Cara
+1984,Police,Every Breath You Take,record-of-the-year,nominee,Police
+1984,Lionel Richie,All Night Long,record-of-the-year,nominee,Lionel Richie
+1984,Michael Sembello,Maniac,record-of-the-year,nominee,Michael Sembello
+1983,Toto,Rosanna,record-of-the-year,winner,Toto
+1983,Joe Jackson,Steppin’ Out,record-of-the-year,nominee,Joe Jackson
+1983,Paul McCartney & Stevie Wonder,Ebony and Ivory,record-of-the-year,nominee,Paul McCartney  Stevie Wonder
+1983,Willie Nelson,Always On My Mind,record-of-the-year,nominee,Willie Nelson
+1983,Vangelis,Chariots of Fire,record-of-the-year,nominee,Vangelis
+1982,Kim Carnes,Bette Davis Eyes,record-of-the-year,winner,Kim Carnes
+1982,Christopher Cross,Arthur’s Theme (Best That You Can Do),record-of-the-year,nominee,Christopher Cross
+1982,John Lennon,(Just Like) Starting Over,record-of-the-year,nominee,John Lennon
+1982,Diana Ross & Lionel Richie,Endless Love,record-of-the-year,nominee,Diana Ross  Lionel Richie
+1982,Jr. & Bill Withers,"Just the Two of Us, Grover Washington",record-of-the-year,nominee,Jr  Bill Withers
+1981,Christopher Cross,Sailing,record-of-the-year,winner,Christopher Cross
+1981,Bette Midler,The Rose,record-of-the-year,nominee,Bette Midler
+1981,Kenny Rogers,Lady,record-of-the-year,nominee,Kenny Rogers
+1981,Frank Sinatra,"Theme from New York, New York",record-of-the-year,nominee,Frank Sinatra
+1981,Barbra Streisand,Woman in Love,record-of-the-year,nominee,Barbra Streisand
+1980,Doobie Brothers,What a Fool Believes,record-of-the-year,winner,Doobie Brothers
+1980,Wind & Fire,"After the Love Has Gone, Earth",record-of-the-year,nominee,Wind  Fire
+1980,Gloria Gaynor,I Will Survive,record-of-the-year,nominee,Gloria Gaynor
+1980,Kenny Rogers,The Gambler,record-of-the-year,nominee,Kenny Rogers
+1980,Barbra Streisand & Neil Diamond,You Don’t Bring Me Flowers,record-of-the-year,nominee,Barbra Streisand  Neil Diamond
+1979,Billy Joel,Just the Way You Are,record-of-the-year,winner,Billy Joel
+1979,Gerry Rafferty,Baker Street,record-of-the-year,nominee,Gerry Rafferty
+1979,Chuck Magione,Feels So Good,record-of-the-year,nominee,Chuck Magione
+1979,Bee Gees,Stayin’ Alive,record-of-the-year,nominee,Bee Gees
+1979,Anne Murray,You Needed Me,record-of-the-year,nominee,Anne Murray
+1978,Eagles,Hotel California,record-of-the-year,winner,Eagles
+1978,Linda Ronstadt,Blue Bayou,record-of-the-year,nominee,Linda Ronstadt
+1978,Crystal Gayle,Don’t it Make My Brown Eyes Blue,record-of-the-year,nominee,Crystal Gayle
+1978,Barbra Streisand,Evergreen,record-of-the-year,nominee,Barbra Streisand
+1978,Debby Boone,You Light Up My Life,record-of-the-year,nominee,Debby Boone
+1977,George Benson,This Masquerade,record-of-the-year,winner,George Benson
+1977,Starland Vocal Band,Afternoon Delight,record-of-the-year,nominee,Starland Vocal Band
+1977,Paul Simon,50 Ways to Leave Your Lover,record-of-the-year,nominee,Paul Simon
+1977,Barry Manilow,I Write the Songs,record-of-the-year,nominee,Barry Manilow
+1977,Chicago,If You Leave Me Now,record-of-the-year,nominee,Chicago
+1976,Captain & Tennille,Love Will Keep Us Together,record-of-the-year,winner,Captain  Tennille
+1976,Janis Ian,At Seventeen,record-of-the-year,nominee,Janis Ian
+1976,Eagles,Lyin’ Eyes,record-of-the-year,nominee,Eagles
+1976,Barry Manilow,Mandy,record-of-the-year,nominee,Barry Manilow
+1976,Glen Campbell,Rhinestone Cowboy,record-of-the-year,nominee,Glen Campbell
+1975,Olivia Newton-John,I Honestly Love You,record-of-the-year,winner,Olivia NewtonJohn
+1975,Elton John,Don’t Let the Sun Go Down on Me,record-of-the-year,nominee,Elton John
+1975,Roberta Flack,Feel Like Makin’ Love,record-of-the-year,nominee,Roberta Flack
+1975,Joni Mitchell,Help Me,record-of-the-year,nominee,Joni Mitchell
+1975,Maria Muldaur,Midnight at the Oasis,record-of-the-year,nominee,Maria Muldaur
+1974,Robert Flack,Killing Me Softly With His Song,record-of-the-year,winner,Robert Flack
+1974,Jim Croce,"Bad, Bad Leroy Brown",record-of-the-year,nominee,Jim Croce
+1974,Charlie Rich,Behind Closed Doors,record-of-the-year,nominee,Charlie Rich
+1974,Stevie Wonder,You Are the Sunshine Of My Life,record-of-the-year,nominee,Stevie Wonder
+1974,Carly Simon,You’re So Vain,record-of-the-year,nominee,Carly Simon
+1973,Roberta Flack,The First Time Ever I Saw Your Face,record-of-the-year,winner,Roberta Flack
+1973,Gilbert O’Sullivan,Alone Again (Naturally),record-of-the-year,nominee,Gilbert OSullivan
+1973,Don McLean,American Pie,record-of-the-year,nominee,Don McLean
+1973,Neil Diamond,Song Sung Blue,record-of-the-year,nominee,Neil Diamond
+1973,Nilsson,Without You,record-of-the-year,nominee,Nilsson
+1972,Carole King,It’s Too Late,record-of-the-year,winner,Carole King
+1972,Three Dog Night,Joy to the World,record-of-the-year,nominee,Three Dog Night
+1972,George Harrison,My Sweet Lord,record-of-the-year,nominee,George Harrison
+1972,Isaac Hayes,Theme from Shaft,record-of-the-year,nominee,Isaac Hayes
+1972,James Taylor,You’ve Got a Friend,record-of-the-year,nominee,James Taylor
+1971,Simon & Garfunkel,Bridge Over Troubled Water,record-of-the-year,winner,Simon  Garfunkel
+1971,Carpenters,Close to You,record-of-the-year,nominee,Carpenters
+1971,Ray Stevens,Everything is Beautiful,record-of-the-year,nominee,Ray Stevens
+1971,James Taylor,Fire and Rain,record-of-the-year,nominee,James Taylor
+1971,Beatles,Let it Be,record-of-the-year,nominee,Beatles
+1970,the 5th Dimension,Aquarius/Let the Sunshine In,record-of-the-year,winner,the 5th Dimension
+1970,Johnny Cash,A Boy Named Sue,record-of-the-year,nominee,Johnny Cash
+1970,Peggy Lee,Is That All There Is?,record-of-the-year,nominee,Peggy Lee
+1970,Henry Mancini,A Time for Us,record-of-the-year,nominee,Henry Mancini
+1970,Sweet & Tears,"Spinning Wheel, Blood",record-of-the-year,nominee,Sweet  Tears
+1969,Simon & Garfunkel,Mrs. Robinson,record-of-the-year,winner,Simon  Garfunkel
+1969,Jeannie C. Riley,Harper Valley PTA,record-of-the-year,nominee,Jeannie C Riley
+1969,Beatles,Hey Jude,record-of-the-year,nominee,Beatles
+1969,Bobby Goldsboro,Honey,record-of-the-year,nominee,Bobby Goldsboro
+1969,Glen Campbell,Wichita Lineman,record-of-the-year,nominee,Glen Campbell
+1968,"Up and Away, the 5th Dimension","Up, Up and Away",record-of-the-year,winner,Up and Away the 5th Dimension
+1968,Glen Campbell,By the Time I Get to Phoenix,record-of-the-year,nominee,Glen Campbell
+1968,Ed Ames,My Cup Runneth Over,record-of-the-year,nominee,Ed Ames
+1968,Bobbie Gentry,Ode to Billie Joe,record-of-the-year,nominee,Bobbie Gentry
+1968,Nancy Sinatra & Frank Sinatra,Somethin’ Stupid,record-of-the-year,nominee,Nancy Sinatra  Frank Sinatra
+1967,Frank Sinatra,Strangers in the Night,record-of-the-year,winner,Frank Sinatra
+1967,David Houston,Almost Persuaded,record-of-the-year,nominee,David Houston
+1967,the Mamas & the Papas,"Monday, Monday",record-of-the-year,nominee,the Mamas  the Papas
+1967,Herb Alpert & Tijuana Brass,What Now My Love,record-of-the-year,nominee,Herb Alpert  Tijuana Brass
+1967,New Vaudeville Band,Winchester Cathedral,record-of-the-year,nominee,New Vaudeville Band
+1966,Herb Alpert and the Tijuana Brass,A Taste of Honey,record-of-the-year,winner,Herb Alpert and the Tijuana Brass
+1966,Beatles,Yesterday,record-of-the-year,nominee,Beatles
+1966,Ramsey Lewis Trio,The In Crowd,record-of-the-year,nominee,Ramsey Lewis Trio
+1966,Roger Miller,King of the Road,record-of-the-year,nominee,Roger Miller
+1966,Tony Bennett,The Shadow of Your Smile,record-of-the-year,nominee,Tony Bennett
+1965,Astrud Gilberto and Stan Getz,The Girl from Ipanema,record-of-the-year,winner,Astrud Gilberto and Stan Getz
+1965,Petula Clark,Downtown,record-of-the-year,nominee,Petula Clark
+1965,Louis Armstrong,"Hello, Dolly!",record-of-the-year,nominee,Louis Armstrong
+1965,Beatles,I Want to Hold Your Hand,record-of-the-year,nominee,Beatles
+1965,Barbra Streisand,People,record-of-the-year,nominee,Barbra Streisand
+1964,Henry Mancini,Days of Wine and Roses,record-of-the-year,winner,Henry Mancini
+1964,the Singing Nun,Dominique,record-of-the-year,nominee,the Singing Nun
+1964,Barbra Streisand,Happy Days Are Here Again,record-of-the-year,nominee,Barbra Streisand
+1964,Tony Bennett,I Wanna Be Around,record-of-the-year,nominee,Tony Bennett
+1964,Jack Jones,Wives and Lovers,record-of-the-year,nominee,Jack Jones
+1963,Tony Bennett,I Left My Heart in San Francisco,record-of-the-year,winner,Tony Bennett
+1963,Stan Getz & Charlie Boyd,Desafinado,record-of-the-year,nominee,Stan Getz  Charlie Boyd
+1963,Joe Harnell & His Orchestra,Fly Me to the Moon Bossa Nova,record-of-the-year,nominee,Joe Harnell  His Orchestra
+1963,Ray Charles,I Can’t Stop Loving You,record-of-the-year,nominee,Ray Charles
+1963,Jr.,"What Kind of Fool Am I?, Sammy Davis",record-of-the-year,nominee,Jr
+1962,Henry Mancini,Moon River,record-of-the-year,winner,Henry Mancini
+1962,Jimmy Dean,Big Bad John,record-of-the-year,nominee,Jimmy Dean
+1962,Frank Sinatra,The Second Time Around,record-of-the-year,nominee,Frank Sinatra
+1962,Dave Brubeck,Take Five,record-of-the-year,nominee,Dave Brubeck
+1962,Si Zentner,(Up a) Lazy River,record-of-the-year,nominee,Si Zentner
+1961,Percy Faith,Theme from a Summer Place,record-of-the-year,winner,Percy Faith
+1961,Elvis Presley,Are You Lonesome Tonight?,record-of-the-year,nominee,Elvis Presley
+1961,Ray Charles,Georgia on My Mind,record-of-the-year,nominee,Ray Charles
+1961,Ella Fitzgerald,Mack the Knife,record-of-the-year,nominee,Ella Fitzgerald
+1961,Frank Sinatra,Nice ‘n’ Easy,record-of-the-year,nominee,Frank Sinatra
+1960,Bobby Darin,Mack the Knife,record-of-the-year,winner,Bobby Darin
+1960,Elvis Presley,A Fool Such as I,record-of-the-year,nominee,Elvis Presley
+1960,Frank Sinatra,High Hopes,record-of-the-year,nominee,Frank Sinatra
+1960,Andre Previn,Like Young,record-of-the-year,nominee,Andre Previn
+1960,the Browns,The Three Bells,record-of-the-year,nominee,the Browns
+1959,Domenico Modugno,Nel Blu Dipinto Di Blu (Volare),record-of-the-year,winner,Domenico Modugno
+1959,Perry Como,Catch a Falling Star,record-of-the-year,nominee,Perry Como
+1959,David Seville,The Chipmunk Song (Christmas Don’t Be Late),record-of-the-year,nominee,David Seville
+1959,Peggy Lee,Fever,record-of-the-year,nominee,Peggy Lee
+1959,Frank Sinatra,Witchcraft,record-of-the-year,nominee,Frank Sinatra
+2022,Olivia Rodrigo,NA,best-new-artist,winner,Olivia Rodrigo
+2022,Arooj Aftab,NA,best-new-artist,nominee,Arooj Aftab
+2022,Jimmie Allen,NA,best-new-artist,nominee,Jimmie Allen
+2022,Baby Keem,NA,best-new-artist,nominee,Baby Keem
+2022,Finneas,NA,best-new-artist,nominee,Finneas
+2022,Glass Animals,NA,best-new-artist,nominee,Glass Animals
+2022,Japanese Breakfast,NA,best-new-artist,nominee,Japanese Breakfast
+2022,The Kid Laroi,NA,best-new-artist,nominee,The Kid Laroi
+2022,Arlo Parks,NA,best-new-artist,nominee,Arlo Parks
+2022,Saweetie,NA,best-new-artist,nominee,Saweetie
+2021,Megan Thee Stallion,NA,best-new-artist,winner,Megan Thee Stallion
+2021,Ingrid Andress,NA,best-new-artist,nominee,Ingrid Andress
+2021,Phoebe Bridgers,NA,best-new-artist,nominee,Phoebe Bridgers
+2021,Chika,NA,best-new-artist,nominee,Chika
+2021,Noah Cyrus,NA,best-new-artist,nominee,Noah Cyrus
+2021,D Smoke,NA,best-new-artist,nominee,D Smoke
+2021,Doja Cat,NA,best-new-artist,nominee,Doja Cat
+2021,Kaytranada,NA,best-new-artist,nominee,Kaytranada
+2020,Billie Eilish,NA,best-new-artist,winner,Billie Eilish
+2020,Black Pumas,NA,best-new-artist,nominee,Black Pumas
+2020,Maggie Rogers,NA,best-new-artist,nominee,Maggie Rogers
+2020,Lil Nas X,NA,best-new-artist,nominee,Lil Nas X
+2020,Lizzo,NA,best-new-artist,nominee,Lizzo
+2020,Rosalia,NA,best-new-artist,nominee,Rosalia
+2020,Tank and the Bangas,NA,best-new-artist,nominee,Tank and the Bangas
+2020,Yola,NA,best-new-artist,nominee,Yola
+2019,Dua Lipa,NA,best-new-artist,winner,Dua Lipa
+2019,Chloe x Halle,NA,best-new-artist,nominee,Chloe x Halle
+2019,Luke Combs,NA,best-new-artist,nominee,Luke Combs
+2019,Greta Van Fleet,NA,best-new-artist,nominee,Greta Van Fleet
+2019,H.E.R.,NA,best-new-artist,nominee,HER
+2019,Margo Price,NA,best-new-artist,nominee,Margo Price
+2019,Bebe Rexha,NA,best-new-artist,nominee,Bebe Rexha
+2019,Jorja Smith,NA,best-new-artist,nominee,Jorja Smith
+2018,Alessia Cara,NA,best-new-artist,winner,Alessia Cara
+2018,Khalid,NA,best-new-artist,nominee,Khalid
+2018,Lil Uzi Vert,NA,best-new-artist,nominee,Lil Uzi Vert
+2018,Julia Michaels,NA,best-new-artist,nominee,Julia Michaels
+2018,SZA,NA,best-new-artist,nominee,SZA
+2017,Chance the Rapper,NA,best-new-artist,winner,Chance the Rapper
+2017,Kelsea Ballerini,NA,best-new-artist,nominee,Kelsea Ballerini
+2017,Chainsmokers,NA,best-new-artist,nominee,Chainsmokers
+2017,Maren Morris,NA,best-new-artist,nominee,Maren Morris
+2017,Anderson.Paak,NA,best-new-artist,nominee,AndersonPaak
+2016,Meghan Trainor,NA,best-new-artist,winner,Meghan Trainor
+2016,Courtney Barnett,NA,best-new-artist,nominee,Courtney Barnett
+2016,James Bay,NA,best-new-artist,nominee,James Bay
+2016,Sam Hunt,NA,best-new-artist,nominee,Sam Hunt
+2016,Tori Kelly,NA,best-new-artist,nominee,Tori Kelly
+2015,Sam Smith,NA,best-new-artist,winner,Sam Smith
+2015,Iggy Azalea,NA,best-new-artist,nominee,Iggy Azalea
+2015,Bastille,NA,best-new-artist,nominee,Bastille
+2015,Brandy Clark,NA,best-new-artist,nominee,Brandy Clark
+2015,Haim,NA,best-new-artist,nominee,Haim
+2014,Macklemore & Ryan Lewis,NA,best-new-artist,winner,Macklemore  Ryan Lewis
+2014,James Blake,NA,best-new-artist,nominee,James Blake
+2014,Kendrick Lamar,NA,best-new-artist,nominee,Kendrick Lamar
+2014,Kacey Musgraves,NA,best-new-artist,nominee,Kacey Musgraves
+2014,Ed Sheeran,NA,best-new-artist,nominee,Ed Sheeran
+2013,fun.,NA,best-new-artist,winner,fun
+2013,Alabama Shakes,NA,best-new-artist,nominee,Alabama Shakes
+2013,Hunter Hayes,NA,best-new-artist,nominee,Hunter Hayes
+2013,Lumineers,NA,best-new-artist,nominee,Lumineers
+2013,Frank Ocean,NA,best-new-artist,nominee,Frank Ocean
+2012,Bon Iver,NA,best-new-artist,winner,Bon Iver
+2012,The Band Perry,NA,best-new-artist,nominee,The Band Perry
+2012,J. Cole,NA,best-new-artist,nominee,J Cole
+2012,Nicki Minaj,NA,best-new-artist,nominee,Nicki Minaj
+2012,Skrillex,NA,best-new-artist,nominee,Skrillex
+2011,Esperanza Spalding,NA,best-new-artist,winner,Esperanza Spalding
+2011,Drake,NA,best-new-artist,nominee,Drake
+2011,Florence + the Machine,NA,best-new-artist,nominee,Florence  the Machine
+2011,Justin Bieber,NA,best-new-artist,nominee,Justin Bieber
+2011,Mumford & Sons,NA,best-new-artist,nominee,Mumford  Sons
+2010,Zac Brown Band,NA,best-new-artist,winner,Zac Brown Band
+2010,Keri Hilson,NA,best-new-artist,nominee,Keri Hilson
+2010,MGMT,NA,best-new-artist,nominee,MGMT
+2010,Silversun Pickups,NA,best-new-artist,nominee,Silversun Pickups
+2010,The Ting Tings,NA,best-new-artist,nominee,The Ting Tings
+2009,Adele,NA,best-new-artist,winner,Adele
+2009,Duffy,NA,best-new-artist,nominee,Duffy
+2009,Jonas Brothers,NA,best-new-artist,nominee,Jonas Brothers
+2009,Lady Antebellum,NA,best-new-artist,nominee,Lady Antebellum
+2009,Jazmine Sullivan,NA,best-new-artist,nominee,Jazmine Sullivan
+2008,Amy Winehouse,NA,best-new-artist,winner,Amy Winehouse
+2008,Feist,NA,best-new-artist,nominee,Feist
+2008,Ledisi,NA,best-new-artist,nominee,Ledisi
+2008,Paramore,NA,best-new-artist,nominee,Paramore
+2008,Taylor Swift,NA,best-new-artist,nominee,Taylor Swift
+2007,Carrie Underwood,NA,best-new-artist,winner,Carrie Underwood
+2007,James Blunt,NA,best-new-artist,nominee,James Blunt
+2007,Chris Brown,NA,best-new-artist,nominee,Chris Brown
+2007,Imogen Heap,NA,best-new-artist,nominee,Imogen Heap
+2007,Corinne Bailey Rae,NA,best-new-artist,nominee,Corinne Bailey Rae
+2006,John Legend,NA,best-new-artist,winner,John Legend
+2006,Ciara,NA,best-new-artist,nominee,Ciara
+2006,Fall Out Boy,NA,best-new-artist,nominee,Fall Out Boy
+2006,Keane,NA,best-new-artist,nominee,Keane
+2006,Sugarland,NA,best-new-artist,nominee,Sugarland
+2005,Maroon 5,NA,best-new-artist,winner,Maroon 5
+2005,Los Lonely Boys,NA,best-new-artist,nominee,Los Lonely Boys
+2005,Joss Stone,NA,best-new-artist,nominee,Joss Stone
+2005,Kanye West,NA,best-new-artist,nominee,Kanye West
+2005,Gretchen Wilson,NA,best-new-artist,nominee,Gretchen Wilson
+2004,Evanescence,NA,best-new-artist,winner,Evanescence
+2004,50 Cent,NA,best-new-artist,nominee,50 Cent
+2004,Fountains of Wayne,NA,best-new-artist,nominee,Fountains of Wayne
+2004,Heather Headley,NA,best-new-artist,nominee,Heather Headley
+2004,Sean Paul,NA,best-new-artist,nominee,Sean Paul
+2003,Norah Jones,NA,best-new-artist,winner,Norah Jones
+2003,Ashanti,NA,best-new-artist,nominee,Ashanti
+2003,Michelle Branch,NA,best-new-artist,nominee,Michelle Branch
+2003,Avril Lavigne,NA,best-new-artist,nominee,Avril Lavigne
+2003,John Mayer,NA,best-new-artist,nominee,John Mayer
+2002,Alicia Keys,NA,best-new-artist,winner,Alicia Keys
+2002,India.Arie,NA,best-new-artist,nominee,IndiaArie
+2002,Nelly Furtado,NA,best-new-artist,nominee,Nelly Furtado
+2002,David Gray,NA,best-new-artist,nominee,David Gray
+2002,Linkin Park,NA,best-new-artist,nominee,Linkin Park
+2001,Shelby Lynne,NA,best-new-artist,winner,Shelby Lynne
+2001,Brad Paisley,NA,best-new-artist,nominee,Brad Paisley
+2001,Papa Roach,NA,best-new-artist,nominee,Papa Roach
+2001,Jill Scott,NA,best-new-artist,nominee,Jill Scott
+2001,Sisqo,NA,best-new-artist,nominee,Sisqo
+2000,Christina Aguilera,NA,best-new-artist,winner,Christina Aguilera
+2000,Macy Gray,NA,best-new-artist,nominee,Macy Gray
+2000,Kid Rock,NA,best-new-artist,nominee,Kid Rock
+2000,Britney Spears,NA,best-new-artist,nominee,Britney Spears
+2000,Susan Tedeschi,NA,best-new-artist,nominee,Susan Tedeschi
+1999,Lauryn Hill,NA,best-new-artist,winner,Lauryn Hill
+1999,Backstreet Boys,NA,best-new-artist,nominee,Backstreet Boys
+1999,Andrea Bocelli,NA,best-new-artist,nominee,Andrea Bocelli
+1999,Dixie Chicks,NA,best-new-artist,nominee,Dixie Chicks
+1999,Natalie Imbruglia,NA,best-new-artist,nominee,Natalie Imbruglia
+1998,Paula Cole,NA,best-new-artist,winner,Paula Cole
+1998,Fiona Apple,NA,best-new-artist,nominee,Fiona Apple
+1998,Erykah Badu,NA,best-new-artist,nominee,Erykah Badu
+1998,Puff Daddy,NA,best-new-artist,nominee,Puff Daddy
+1998,Hanson,NA,best-new-artist,nominee,Hanson
+1997,LeAnn Rimes,NA,best-new-artist,winner,LeAnn Rimes
+1997,Garbage,NA,best-new-artist,nominee,Garbage
+1997,Jewel,NA,best-new-artist,nominee,Jewel
+1997,No Doubt,NA,best-new-artist,nominee,No Doubt
+1997,The Tony Rich Project,NA,best-new-artist,nominee,The Tony Rich Project
+1996,Hootie & the Blowfish,NA,best-new-artist,winner,Hootie  the Blowfish
+1996,Brandy,NA,best-new-artist,nominee,Brandy
+1996,Alanis Morissette,NA,best-new-artist,nominee,Alanis Morissette
+1996,Joan Osborne,NA,best-new-artist,nominee,Joan Osborne
+1996,Shania Twain,NA,best-new-artist,nominee,Shania Twain
+1995,Sheryl Crow,NA,best-new-artist,winner,Sheryl Crow
+1995,Ace of Base,NA,best-new-artist,nominee,Ace of Base
+1995,Counting Crows,NA,best-new-artist,nominee,Counting Crows
+1995,Crash Test Dummies,NA,best-new-artist,nominee,Crash Test Dummies
+1995,Green Day,NA,best-new-artist,nominee,Green Day
+1994,Toni Braxton,NA,best-new-artist,winner,Toni Braxton
+1994,Belly,NA,best-new-artist,nominee,Belly
+1994,Blind Melon,NA,best-new-artist,nominee,Blind Melon
+1994,Digable Planets,NA,best-new-artist,nominee,Digable Planets
+1994,SWV,NA,best-new-artist,nominee,SWV
+1993,Arrested Development,NA,best-new-artist,winner,Arrested Development
+1993,Billy Ray Cyrus,NA,best-new-artist,nominee,Billy Ray Cyrus
+1993,Sophie B. Hawkins,NA,best-new-artist,nominee,Sophie B Hawkins
+1993,Kris Kross,NA,best-new-artist,nominee,Kris Kross
+1993,Jon Secada,NA,best-new-artist,nominee,Jon Secada
+1992,Marc Cohn,NA,best-new-artist,winner,Marc Cohn
+1992,Boyz II Men,NA,best-new-artist,nominee,Boyz II Men
+1992,C&C Music Factory,NA,best-new-artist,nominee,CC Music Factory
+1992,Color Me Badd,NA,best-new-artist,nominee,Color Me Badd
+1992,Seal,NA,best-new-artist,nominee,Seal
+1991,Mariah Carey,NA,best-new-artist,winner,Mariah Carey
+1991,Black Crowes,NA,best-new-artist,nominee,Black Crowes
+1991,Kentucky Headhunters,NA,best-new-artist,nominee,Kentucky Headhunters
+1991,Wilson Phillips,NA,best-new-artist,nominee,Wilson Phillips
+1991,Lisa Stansfield,NA,best-new-artist,nominee,Lisa Stansfield
+1990,Milli Vanilli (award later revoked and vacated),NA,best-new-artist,winner,Milli Vanilli award later revoked and vacated
+1990,Neneh Cherry,NA,best-new-artist,nominee,Neneh Cherry
+1990,Indigo Girls,NA,best-new-artist,nominee,Indigo Girls
+1990,Soul II Soul,NA,best-new-artist,nominee,Soul II Soul
+1990,Tone Loc,NA,best-new-artist,nominee,Tone Loc
+1989,Tracy Chapman,NA,best-new-artist,winner,Tracy Chapman
+1989,Rick Astley,NA,best-new-artist,nominee,Rick Astley
+1989,Toni Childs,NA,best-new-artist,nominee,Toni Childs
+1989,Take 6,NA,best-new-artist,nominee,Take 6
+1989,Vanessa Williams,NA,best-new-artist,nominee,Vanessa Williams
+1988,Jody Watley,NA,best-new-artist,winner,Jody Watley
+1988,Breakfast Club,NA,best-new-artist,nominee,Breakfast Club
+1988,Cutting Crew,NA,best-new-artist,nominee,Cutting Crew
+1988,Terence Trent D’Arby,NA,best-new-artist,nominee,Terence Trent DArby
+1988,Swing Out Sister,NA,best-new-artist,nominee,Swing Out Sister
+1987,Bruce Hornsby and the Range,NA,best-new-artist,winner,Bruce Hornsby and the Range
+1987,Glass Tiger,NA,best-new-artist,nominee,Glass Tiger
+1987,Nu Shooz,NA,best-new-artist,nominee,Nu Shooz
+1987,Simply Red,NA,best-new-artist,nominee,Simply Red
+1987,Timbuk3,NA,best-new-artist,nominee,Timbuk3
+1986,Sade,NA,best-new-artist,winner,Sade
+1986,a-ha,NA,best-new-artist,nominee,aha
+1986,Freddie Jackson,NA,best-new-artist,nominee,Freddie Jackson
+1986,Katrina and the Waves,NA,best-new-artist,nominee,Katrina and the Waves
+1986,Julian Lennon,NA,best-new-artist,nominee,Julian Lennon
+1985,Cyndi Lauper,NA,best-new-artist,winner,Cyndi Lauper
+1985,Sheila E.,NA,best-new-artist,nominee,Sheila E
+1985,Frankie Goes to Hollywood,NA,best-new-artist,nominee,Frankie Goes to Hollywood
+1985,Corey Hart,NA,best-new-artist,nominee,Corey Hart
+1985,The Judds,NA,best-new-artist,nominee,The Judds
+1984,Culture Club,NA,best-new-artist,winner,Culture Club
+1984,Big Country,NA,best-new-artist,nominee,Big Country
+1984,Eurythmics,NA,best-new-artist,nominee,Eurythmics
+1984,Men Without Hats,NA,best-new-artist,nominee,Men Without Hats
+1984,Musical Youth,NA,best-new-artist,nominee,Musical Youth
+1983,Men at Work,NA,best-new-artist,winner,Men at Work
+1983,Asia,NA,best-new-artist,nominee,Asia
+1983,Jennifer Holiday,NA,best-new-artist,nominee,Jennifer Holiday
+1983,Human League,NA,best-new-artist,nominee,Human League
+1983,Stray Cats,NA,best-new-artist,nominee,Stray Cats
+1982,Sheena Easton,NA,best-new-artist,winner,Sheena Easton
+1982,Adam and the Ants,NA,best-new-artist,nominee,Adam and the Ants
+1982,The Go-Gos,NA,best-new-artist,nominee,The GoGos
+1982,James Ingram,NA,best-new-artist,nominee,James Ingram
+1982,Luther Vandross,NA,best-new-artist,nominee,Luther Vandross
+1981,Christopher Cross,NA,best-new-artist,winner,Christopher Cross
+1981,Irene Cara,NA,best-new-artist,nominee,Irene Cara
+1981,Robbie Dupree,NA,best-new-artist,nominee,Robbie Dupree
+1981,Amy Holland,NA,best-new-artist,nominee,Amy Holland
+1981,Pretenders,NA,best-new-artist,nominee,Pretenders
+1980,Rickie Lee Jones,NA,best-new-artist,winner,Rickie Lee Jones
+1980,Blues Brothers,NA,best-new-artist,nominee,Blues Brothers
+1980,Dire Straits,NA,best-new-artist,nominee,Dire Straits
+1980,The Knack,NA,best-new-artist,nominee,The Knack
+1980,Robin Williams,NA,best-new-artist,nominee,Robin Williams
+1979,A Taste of Honey,NA,best-new-artist,winner,A Taste of Honey
+1979,The Cars,NA,best-new-artist,nominee,The Cars
+1979,Elvis Costello,NA,best-new-artist,nominee,Elvis Costello
+1979,Chris Rea,NA,best-new-artist,nominee,Chris Rea
+1979,Toto,NA,best-new-artist,nominee,Toto
+1978,Debby Boone,NA,best-new-artist,winner,Debby Boone
+1978,Stephen Bishop,NA,best-new-artist,nominee,Stephen Bishop
+1978,Shaun Cassidy,NA,best-new-artist,nominee,Shaun Cassidy
+1978,Foreigner,NA,best-new-artist,nominee,Foreigner
+1978,Andy Gibb,NA,best-new-artist,nominee,Andy Gibb
+1977,Starland Vocal Band,NA,best-new-artist,winner,Starland Vocal Band
+1977,Boston,NA,best-new-artist,nominee,Boston
+1977,Dr. Buzzard’s Original Savannah Band,NA,best-new-artist,nominee,Dr Buzzards Original Savannah Band
+1977,The Brothers Johnson,NA,best-new-artist,nominee,The Brothers Johnson
+1977,Wild Cherry,NA,best-new-artist,nominee,Wild Cherry
+1976,Natalie Cole,NA,best-new-artist,winner,Natalie Cole
+1976,Morris Albert,NA,best-new-artist,nominee,Morris Albert
+1976,Amazing Rhythm Aces,NA,best-new-artist,nominee,Amazing Rhythm Aces
+1976,Brecker Brothers,NA,best-new-artist,nominee,Brecker Brothers
+1976,KC and the Sunshine Band,NA,best-new-artist,nominee,KC and the Sunshine Band
+1975,Marvin Hamlisch,NA,best-new-artist,winner,Marvin Hamlisch
+1975,Bad Company,NA,best-new-artist,nominee,Bad Company
+1975,Johnny Bristol,NA,best-new-artist,nominee,Johnny Bristol
+1975,David Essex,NA,best-new-artist,nominee,David Essex
+1975,Graham Central Station,NA,best-new-artist,nominee,Graham Central Station
+1975,Phoebe Snow,NA,best-new-artist,nominee,Phoebe Snow
+1974,Bette Midler,NA,best-new-artist,winner,Bette Midler
+1974,Eumir Deodato,NA,best-new-artist,nominee,Eumir Deodato
+1974,Maureen McGovern,NA,best-new-artist,nominee,Maureen McGovern
+1974,Marie Osmond,NA,best-new-artist,nominee,Marie Osmond
+1974,Barry White,NA,best-new-artist,nominee,Barry White
+1973,America,NA,best-new-artist,winner,America
+1973,Harry Chapin,NA,best-new-artist,nominee,Harry Chapin
+1973,Eagles,NA,best-new-artist,nominee,Eagles
+1973,Loggins and Messina,NA,best-new-artist,nominee,Loggins and Messina
+1973,John Prine,NA,best-new-artist,nominee,John Prine
+1972,Carly Simon,NA,best-new-artist,winner,Carly Simon
+1972,Chase,NA,best-new-artist,nominee,Chase
+1972,"Emerson, Lake & Palmer",NA,best-new-artist,nominee,Emerson Lake  Palmer
+1972,"Hamilton, Joe Frank & Reynolds",NA,best-new-artist,nominee,Hamilton Joe Frank  Reynolds
+1972,Bill Withers,NA,best-new-artist,nominee,Bill Withers
+1971,The Carpenters,NA,best-new-artist,winner,The Carpenters
+1971,Elton John,NA,best-new-artist,nominee,Elton John
+1971,Melba Moore,NA,best-new-artist,nominee,Melba Moore
+1971,Anne Murray,NA,best-new-artist,nominee,Anne Murray
+1971,Partridge Family,NA,best-new-artist,nominee,Partridge Family
+1970,"Crosby, Stills & Nash",NA,best-new-artist,winner,Crosby Stills  Nash
+1970,Chicago,NA,best-new-artist,nominee,Chicago
+1970,Led Zeppelin,NA,best-new-artist,nominee,Led Zeppelin
+1970,Neon Philharmonic,NA,best-new-artist,nominee,Neon Philharmonic
+1970,Oliver,NA,best-new-artist,nominee,Oliver
+1969,Jose Feliciano,NA,best-new-artist,winner,Jose Feliciano
+1969,Cream,NA,best-new-artist,nominee,Cream
+1969,Gary Puckett & the Union Gap,NA,best-new-artist,nominee,Gary Puckett  the Union Gap
+1969,Jeanne C. Riley,NA,best-new-artist,nominee,Jeanne C Riley
+1969,O.C. Smith,NA,best-new-artist,nominee,OC Smith
+1968,Bobbie Gentry,NA,best-new-artist,winner,Bobbie Gentry
+1968,Lana Cantrell,NA,best-new-artist,nominee,Lana Cantrell
+1968,The 5th Dimension,NA,best-new-artist,nominee,The 5th Dimension
+1968,Harpers Bizarre,NA,best-new-artist,nominee,Harpers Bizarre
+1968,Jefferson Airplane,NA,best-new-artist,nominee,Jefferson Airplane
+1967,No award,NA,best-new-artist,winner,No award
+1966,Tom Jones,NA,best-new-artist,winner,Tom Jones
+1966,The Byrds,NA,best-new-artist,nominee,The Byrds
+1966,Herman’s Hermits,NA,best-new-artist,nominee,Hermans Hermits
+1966,Horst Jankowski,NA,best-new-artist,nominee,Horst Jankowski
+1966,Marilyn Maye,NA,best-new-artist,nominee,Marilyn Maye
+1966,Sonny & Cher,NA,best-new-artist,nominee,Sonny  Cher
+1966,Glenn Yarbrough,NA,best-new-artist,nominee,Glenn Yarbrough
+1965,The Beatles,NA,best-new-artist,winner,The Beatles
+1965,Petula Clark,NA,best-new-artist,nominee,Petula Clark
+1965,Astrud Gilberto,NA,best-new-artist,nominee,Astrud Gilberto
+1965,Antonio Carlos Jobim,NA,best-new-artist,nominee,Antonio Carlos Jobim
+1965,Morgana King,NA,best-new-artist,nominee,Morgana King
+1964,Swingle Sisters,NA,best-new-artist,winner,Swingle Sisters
+1964,Vikki Carr,NA,best-new-artist,nominee,Vikki Carr
+1964,John Gary,NA,best-new-artist,nominee,John Gary
+1964,The J’s with Jamie,NA,best-new-artist,nominee,The Js with Jamie
+1964,Trini Lopez,NA,best-new-artist,nominee,Trini Lopez
+1963,Robert Goulet,NA,best-new-artist,winner,Robert Goulet
+1963,The Four Seasons,NA,best-new-artist,nominee,The Four Seasons
+1963,Vaughn Meader,NA,best-new-artist,nominee,Vaughn Meader
+1963,New Christy Minstrels,NA,best-new-artist,nominee,New Christy Minstrels
+1963,"Peter, Paul and Mary",NA,best-new-artist,nominee,Peter Paul and Mary
+1963,Allan Sherman,NA,best-new-artist,nominee,Allan Sherman
+1962,Peter Nero,NA,best-new-artist,winner,Peter Nero
+1962,Ann-Margret,NA,best-new-artist,nominee,AnnMargret
+1962,Dick Gregory,NA,best-new-artist,nominee,Dick Gregory
+1962,The Letterman,NA,best-new-artist,nominee,The Letterman
+1962,Timi Yuro,NA,best-new-artist,nominee,Timi Yuro
+1961,Bob Newhart,NA,best-new-artist,winner,Bob Newhart
+1961,The Brothers Four,NA,best-new-artist,nominee,The Brothers Four
+1961,Miriam Makeba,NA,best-new-artist,nominee,Miriam Makeba
+1961,Leontyne Price,NA,best-new-artist,nominee,Leontyne Price
+1961,Joanie Sommers,NA,best-new-artist,nominee,Joanie Sommers
+1960,Bobby Darin,NA,best-new-artist,winner,Bobby Darin
+1960,Edd Byrnes,NA,best-new-artist,nominee,Edd Byrnes
+1960,Mark Murphy,NA,best-new-artist,nominee,Mark Murphy
+1960,Johnny Restivo,NA,best-new-artist,nominee,Johnny Restivo
+1960,Mavis Rivers,NA,best-new-artist,nominee,Mavis Rivers
+2023,Lizzo,About Damn Time,record-of-the-year,winner,Lizzo
+2023,Abba,Don't Shut Me Down,record-of-the-year,nominee,Abba
+2023,Adele,Easy On Me,record-of-the-year,nominee,Adele
+2023,Beyonce,BREAK MY SOUL,record-of-the-year,nominee,Beyonce
+2023,Mary J. Blige,Good Morning Gorgeous,record-of-the-year,nominee,Mary J Blige
+2023,Brandi Carlile Featuring Lucius,You And Me On The Rock,record-of-the-year,nominee,Brandi Carlile Featuring Lucius
+2023,Doja Cat,Woman,record-of-the-year,nominee,Doja Cat
+2023,Steve Lacy,Bad Habit,record-of-the-year,nominee,Steve Lacy
+2023,Harry Styles,As It Was,record-of-the-year,nominee,Harry Styles
+2023,Kendrick Lamar,The Heart Part 5,record-of-the-year,nominee,Kendrick Lamar
+2023,Harry Styles,Harry's House,album-of-the-year,winner,Harry Styles
+2023,Abba,Voyage,album-of-the-year,nominee,Abba
+2023,Adele,30,album-of-the-year,nominee,Adele
+2023,Bad Bunny,Un Verano Sin Ti,album-of-the-year,nominee,Bad Bunny
+2023,Beyonce,RENAISSANCE,album-of-the-year,nominee,Beyonce
+2023,Mary J. Blige,Good Morning Gorgeous,album-of-the-year,nominee,Mary J Blige
+2023,Brandi Carlile,In These Silent Days,album-of-the-year,nominee,Brandi Carlile
+2023,Coldplay,Music Of The Spheres,album-of-the-year,nominee,Coldplay
+2023,Kendrick Lamar,Mr. Morale & The Big Steppers,album-of-the-year,nominee,Kendrick Lamar
+2023,Lizzo,Special,album-of-the-year,nominee,Lizzo
+2023,Samara Joy,,best-new-artist,winner,Samara Joy
+2023,Anitta,,best-new-artist,nominee,Anitta
+2023,Omar Apollo,,best-new-artist,nominee,Omar Apollo
+2023,DOMi & JD Beck,,best-new-artist,nominee,DOMi  JD Beck
+2023,Muni Long,,best-new-artist,nominee,Muni Long
+2023,Latto,,best-new-artist,nominee,Latto
+2023,Måneskin,,best-new-artist,nominee,Måneskin
+2023,Tobe Nwigwe,,best-new-artist,nominee,Tobe Nwigwe
+2023,Molly Tuttle,,best-new-artist,nominee,Molly Tuttle
+2023,Wet Leg,,best-new-artist,nominee,Wet Leg
