@@ -7,7 +7,7 @@ The Grammys have been criticized for exlucing artists of color for a long time. 
 
 ## Data Collection
 - Past Grammys nominations were scraped from [Grammy Awards Archive](https://totalmusicawards.com/grammy-awards-winners-archive/). You can check out notebook `grammy-step1-scraping.ipynb` for how the scraping was done.
-- The website did not update results for the 2023 Grammys at the time when I started this project. I complied a list of nominations and results from [the Grammys' official site](https://www.grammy.com/news/2023-grammy-nominations-complete-winners-nominees-list).
+- The website did not update results for the 2023 Grammys at the time when I started this project. I complied a list of nominations and results from [the Grammys' official site](https://www.grammy.com/news/2023-grammy-nominations-complete-winners-nominees-list). See `2023-grammy.csv`.
 ## Methodlogy & Analysis
 #### Timeframe
 This project analyzed Grammys nomination from 1990 to 2023.
@@ -31,7 +31,7 @@ Example:
 
 `white nominee chance of winning` = `# of white winners`/`# of total white nominations (winners+nominees)`
 
-
+For more about the analysis process, check out `grammy-step2-analysis.ipynb`.
 ## Findings
 *Learn more about the findings here: [The Grammy Awards’ Diversity Problem, in Numbers](https://xinyitu.github.io/grammys/)*
 ![Screen Shot 2023-02-19 at 5 39 04 PM](https://user-images.githubusercontent.com/116761432/219979510-63f89e96-0feb-493d-a2ec-f6b5beeb76fe.png)
