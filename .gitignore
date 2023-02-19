@@ -277,3 +277,5 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/osx
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,adobe,r
+.DS_Store
+.DS_Store
