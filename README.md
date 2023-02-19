@@ -51,6 +51,6 @@ Percentage of non-white nominees across 3 categories over the years
 - Data only includes nominations in the past 34 award seasons.
 - Data only includes nominations in 3 general categories.
 - Subjective bias might have affected the classficiation of white and UR groups. Example:  Artists with European heritage (e.g. Albanian), Hispanic artists, etc.
-- Bias presented in chance of winning was not tested.
+- Chance of winning and possible biaes did not go through statistical testing.
 ## Contact
 I can be reached at xt2274@columbia.edu or on Twitter @CynthiaTu2. My inbox is open for any comments, suggestions, angry email telling me what I did wrong in this project... 
